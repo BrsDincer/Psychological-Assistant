@@ -39,7 +39,7 @@ $> python _psyassistant.py
 ```
 or
 ```
-$> python _psyassistant.py
+$> python3 _psyassistant.py
 ```
 
 - For custom data:
