@@ -7,6 +7,7 @@ Within the scope of psychology, it is an LLM AI-Bot research aimed at increasing
 
 ### Usage Notes
 
+- It is local. The connection is established via the address "_127.0.0.1_".
 - It is preferable to use it as "ready-to-use", as there is a pre-trained model and data collected for specific purposes.
 - The main training data is the file "maindatapsy.csv".
 - If you want to train the model based on your own data, follow the instructions and place your own file in the same file path, preserving the filename as "maindatapsy.csv".
@@ -18,6 +19,9 @@ Within the scope of psychology, it is an LLM AI-Bot research aimed at increasing
 - When you get unexpected answers, please seek support from your advisor or experts.
 - It is in the experimental stage and is only ready for pre-use.
 - Please report any external abuse.
+
+### API KEY
+- You should add your own _OpenAI_ API key in "tokeninit.txt" file. Make sure you enter a valid key or the program will not run.
 
 ## How To Use
 
