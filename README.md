@@ -1,6 +1,5 @@
-<div>
-<img src="https://user-images.githubusercontent.com/81470496/235321390-9f4c388c-68d1-4dca-a185-59fe35eabd97.jpg" align="left" width=200>
-</div>
+
+<img src="https://user-images.githubusercontent.com/81470496/235321390-9f4c388c-68d1-4dca-a185-59fe35eabd97.jpg" width=200>
 
 # Psychological Assistant - AI LLM Project
 
