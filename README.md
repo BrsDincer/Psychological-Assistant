@@ -69,3 +69,7 @@ https://user-images.githubusercontent.com/81470496/235314220-2b8174e6-75b0-421e-
 
 [Baris Dincer](https://www.linkedin.com/in/brs-dincer/)
 
+## For Bitcoin Donation
+
+- 37kdD9qqyeiPTJM8nXXFwfCi684QdeVajp
+
