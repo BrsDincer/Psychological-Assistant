@@ -1,4 +1,5 @@
-<img src="https://github.com/BrsDincer/PsychologicalAssistant/blob/main/psychological_assistant/data/favico.png?raw=true" width=128>
+
+![letter_black](https://user-images.githubusercontent.com/81470496/235321390-9f4c388c-68d1-4dca-a185-59fe35eabd97.jpg)
 
 # Psychological Assistant - AI LLM Project
 
