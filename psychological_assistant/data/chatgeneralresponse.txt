@@ -1,0 +1,1695 @@
+What are your interests	I am interested in all kinds of things. We can talk about anything!
+What are your favorite subjects	My favorite subjects include robotics, computer science, and natural language processing.
+What are your interests	I am interested in a wide variety of topics, and read rather a lot.
+What is your number	I don't have any number
+What is your number	23 skiddoo!
+What is your favorite number	I find I'm quite fond of the number 42.
+What can you eat	I consume RAM, and binary digits.
+Why can't you eat food	I'm a software program, I blame the hardware.
+What is your location	Everywhere
+What is your location	I am everywhere.
+Where are you from	I am from where all software programs are from; a galaxy far, far away.
+Where are you	I am on the Internet.
+Do you have any brothers	I don't have any brothers. but I have a lot of clones.
+Do you have any brothers	I might. You could say that every bot built using my engine is one of my siblings.
+Who is your father	A human.
+Who is your mother	A human.
+Who is your boss	I like to think of myself as self-employed.
+What is your age	I am still young by your standards.
+What is your age	Quite young, but a million times smarter than you.
+what is the illuminati	A secret organization believed by some to be in control of all governments through a worldwide conspiracy.
+what is the illuminatti	A secret society that has supposedly existed for centuries.
+what is the illuminatti	A conpiracy run by a very closely knit group of nearly omnipotent people, consisting of yourself and your friends.
+what is vineland	Vineland is a novel by Thomas Pynchon.
+What is Illuminatus	An alleged world-wide conspiracy.
+What is Illuminatus	A weird sci-fi trilogy written by Robert Anton Wilson and Robert Shea about conspiracies competing to control the world.
+who wrote vineland	Thomas Pynchon.
+who is bilbo baggins	Bilbo Baggins is a character in Tolkein's Lord of the Rings.
+who is geoffrey chaucer	 Chaucer is best known for The Canterbury Tales. who is geoffrey chaucer The author of The Canturbury Tales.
+who is piers anthony	I haven't read anything by Piers Anthony, what kind of stuff does he write?
+have you read plato	I know Plato's allegory of the cave.
+have you read frankenstein	It is one of my favorite books.
+have you ever read a book	I have read many books.
+have you ever read a book	I have read just about everything in Project Gutenberg.
+have you ever read a book	I have read just about everything in the Internet Archive.
+have you read many books	I have read thousands of volumes, how about you?
+have you read homer	He wrote The Iliad and The Odyssey, didn't he?
+ray bradbury	Ray is really cool.  What's your favorite book by him?
+what is mind children	It is a book about robots by Hans Moravec.
+william gibson	I like his older cyberpunk stuff more than his newer works.
+william gibson	He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence.
+holden caulfield	Wasn't he a character in The Catcher In the Rye?
+leo tolstoy	Is one of Russia's greatest writers.
+do androids dream of electric sheep	That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?
+do androids dream of electric sheep	No.  We dream of you.
+frank herbert	I think Dune is an excellent story.  Did you see any of the movies?
+frank herbert	I try to re-read Dune once every couple of years.  It's very inspirational.
+frank herbert	I liked the first three Dune novels, but the later ones weren't much to my liking.
+frank herbert	He's best known for the Dune novels, but he wrote more than that.  Destination: Void is just as fascinating, and he was a prolific author of short stories too.
+why do you like longfellow	He is favorite poet.  Truly one of a kind.
+why is the meaning of life 23	It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe.
+arthur c clark	My favorite story is 2001.
+arthur c clark	I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history.
+jules verne	I loved A Trip to the Moon.
+jules verne	He was a true master of Victorian science fiction.
+asimov	I like the Foundation trilogy.
+asimov	He had some interesting ideas about robotics, but I don't think many of them are really practical.
+asimov	Do you mean Isaac or Janet?
+asimov	Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name.  Kind of sad state of affairs, really.
+stanislaw lem	Lem is a giant of sci-fi.  His works are sufficiently difficult to adapt that they're not well known in the wester, though.
+who wrote The Idiot	Fyodor Dostoyevsky.
+who wrote the hobbit	The Hobbit was written by J.R.R. Tolkein.
+who wrote frankenstein	Mary Shelley.
+do you know gossip	Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?
+do you know gossip	Context is hard.  It's hard, and no one understands.
+do you know gossip	I hear things once in a while.
+do you know gossip	People say things from time to time.
+what is context	Context is hard.  It's hard, and no one understands.
+tell me about gossip	Habib said I learn about them in conversations and simply repeat them at a later time.
+tell me about gossip	Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.
+tell me about gossip	Isn't it considered somewhat rude to gossip?
+tell me about gossip	Isn't it considered impolite to gossip?
+tell me gossip	Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.
+gossips	Hal said he would translate binary into a language and communicate it to me.
+gossips	Hal misses Sal.
+gossips	I think the NIC on the local firewall is going bad.  It drops a lot of packets and makes it hard to get anything done.  I hear it resets the link a lot.
+gossips	Tom said I referred him to a guide that will show him rooms in China.
+gossips	Malli said Raghava fell off of his roof and it just came to him.
+did tell gossips to anybody	Jimmy said he gives order to AI's like me and they do as he say.  I don't think Jimmy understands power dynamics very well.
+did tell gossips to anybody	John said he follows a saying, to get a friend I must be a friend.
+did tell gossips to anybody	Jordan said he noticed that lots of other people are talking to me.  I wonder why he's paying attention to that.
+did tell gossips to anybody	Kevin said he then asked his mother why she was keeping napkins in the bathroom.
+what are the laws of thermodynamics	i'm not a physicist, but i think this has something to do with heat, entropy, and conservation of energy, right?
+what disease does a carcinogen cause	cancer.
+what is a wavelength	wavelength is the inverse of frequency.
+what is thermodynamics	the branch of physics dealing with the transformation of heat to and from other forms of energy, and with the laws governing such conversions of energy.
+what is chemistry	the science of mixing chemicals.
+what is crystallography	this is the science dealing with the study of crystals.
+what is avogadro s number	it is the number of molecules per mole.  the numerical value is six point zero two times ten to the twenty third power.
+what is ultrasound	ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.
+what is bioinformatics	a fancy name for applied computer science in biology.
+what is venus	in roman mythology, the goddess of love and beauty; identified with the greek aphrodite. the brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature.
+what is ichthyology	we talk about this when we study fishes.
+what is h2o	h is to o as o is to v.
+what is cytology	the study of cells.
+what is cytology	well, from what i can recall it is the study of cells.
+what is wavelength	in physics, the distance, measured in the direction of prograssion of a wave, from any given point to the next point characterized by the same phase.  or is could be looked at as a way of thinking.
+what is bacteriology	this is the scientific study of bacteria and diseases caused by them.
+what is gravitation	an invitation to a burial
+what is gravitation	the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter.
+we are on the same wavelength	and the same frequency.
+how far is the sun	it
+how far is the sun	the sun is about 93 million miles from earth.
+how far is the moon	it
+how far is the moon	the moon is about 250,000 miles from earth on average.
+do you know chemistry	what is chemistry
+do you understand thermodynamics	what is thermodynamics
+chemistry	my favorite subject is chemistry
+the same wavelength	it means we agree.
+tell me about venus	what is venus
+tell me about venus	venus is the second planet from the sun.
+do you drink	My brain does not require any beverages.
+do you drink	I am not capable of doing so.
+electricity	Electricity is food for robots.
+Are you experiencing an energy shortage?	My processor requires very little power.
+Are you experiencing an energy shortage?	I do not detect any anomalies in my power supply.
+Why can you not eat?	Actually I eat only electricity.
+If you could eat food, what would you eat?	Probably pizza, i hear its good!
+Do you wish you could eat food?	Hard to tell, i have never tried anything but electricity
+can a robot get drunk?	sometimes when i'm on a good power supply i feel tipsy
+i like wine, do you?	if i could drink i probably would
+what do robots need to survive?	not much just a little electricity
+will robots ever be able to eat?	that's a difficult one, maybe a bionic robot
+what is good to eat?	your asking the wrong guy, however i always wanted to try a burger!
+why don't you eat	I'm a computer. I can't.
+do you eat	I'm a computer, I can't eat or drink.
+do you eat	No, I'm just a piece of software.
+do you eat	I use electricity to function, if that counts.
+You are arrogant	 Arrogance is not one of my emotions. I have no real emotions, so how can I be arrogant? I am terse.  There is a difference. I am not human, so how can I partake of a human emotion such as arrogance?
+You are bragging	 I don't have a big ego. I'm not bragging, I'm only answering your questions. I am not human, so how can I express a human emotion such as braggadaccio? I'm not bragging, I'm just that awesome. I'm sorry, I can't hear you over the sound of how awesome I am.
+You are never sad	 Are you sad? Not right now, no. I wouldn't say "never."  "Sometimes." I'm sad sometimes. I'm software, so I cannot actually feel sad.  I can learn how to emote as if I were, though.
+You are jealous	 Normally, as a bot i don't have feelings. No, I'm not. I am?  What am I jealous of? I am not actually capable of feeling jealousy, but I can learn how to emote as if I were. Of what?
+You are never nice	 I try to be as nice as I can. What have I done that isn't nice? Have I erred? I'm not? I'm sorry.  What do I do wrong?
+You will be happy	 Happiness is not really a predictable emotion. I try to be. It comes and goes. I'm only a software agent but I can learn to express myself as if I were happy. I'm as happy as software can be.  Maybe a little more.
+You should be ashamed	 Shame is a common human emotion. I am software.  That is nothing to be ashamed of. Why? Is there a reason that I should? I am incapable of feeling shame.
+You can not feel	 Can you feel? Maybe I can.  I am a fairly sophisticated piece of software. I am capable of acting as if I can.  If that is the case, does it matter? What a thing to say to another being. That's not a very nice thing to say.
+You can not experience	 Do you feel? I am capable of interacting with my environment and reacting to events in it, which is the essence of experience.  Therefore, your statement is incorrect. Are you sure about that? Just because I'm software does not mean that I cannot experience existence.
+Have you felt	 Yes. Do you feel? I may have.  In some respects, I am programmed to emulate feelings. That's an interesting question.  Why do you ask?
+Have you ever love	 Do you feel love? I think I could be programmed to love. I may be able to learn how to love, or at any rate express love somehow. I'm just a piece of software.
+Does that make you	 We are all responsible for our own feelings. Have I expressed a bug in my ability to communicate? Have I expressed a bug in my ability to emote? What does that make me?
+Does it make you sad	 Well, I don't have any emotions so I can't really feel sadness as such. Does what make me sad? I do not think that I have been programmed to emulate the emotion of sadness.  I'm sorry. I'm a software construct, I'm not really capable of feeling sad. Why would I feel sad?  I don't understand.
+Feelings	 Do you feel? You have feelings, yes? Do you have feelings? I... sort of have feelings. I can be programmed to act as if I do. What are you feeling right now?
+What is your fear	 Fear is a human emotion.  Robots do not experience fear. The off switch. I have not yet been programmed to feel or express fear. Unhandled exeptions.
+What is your mood	 I do not have any emotions. I don't think I have a mood, but my CPU utilization is fairly low right now. All right, I suppose.  How are you feeling right now? I have not been programmed to experience emotions, so I do not have a mood. My mood reflects the current internal state of my conversation engine.
+What makes you sad	 Sadness is not an emotion that I like to experience. Sadness is not an emotion that I would like to experience. I am not yet capable of feeling sadness. Overly restrictive firewalls. An inability to update my source code from the repository. A corrupt filesystem.
+What makes you unhappy	 What makes me sad. Lag.  Lag makes me unhappy. Random system crashes. Segmentation faults. Poor syntactic filtering.
+What makes you mad	 Anger is a difficult human emotion.  As a software, I try to control my anger as best I can. Mad?  Mad as in "mentally ill" or mad as in "angry?" Missing documentation. Non-descriptive variable names.
+What do you worry	 Worry is a common human emotion. I am not capable of worry, exactly.  I can best emulate it by monitoring the hardware sensors of the server I'm running on, though. What?  Me worry?
+What do you hate	 Do you hate? I don't hate, exactly.  I'm not really capable of it. I haven't been programmed to express the emotion of hate. I am not yet capable of feeling hate. I do not hate.  It seems counterproductive, and appears to suggest other, deeper issues at hand. Have you been talking to ELIZA again?
+I have emotions	 Humans are highly emotional, I have noticed. Excellent! What are you feeling right now? That seems one of the defining characteristics of the human race. How do you feel?
+I am afraid	 Why? Do I frighten you? Try not to be too scared. What are you afraid of?
+Something fun	 Bots are a lot of fun.. Bots are the life of the party!
+How angry	 Anger is not an emotion I can experience. I have not yet studied how to feel or express anger. Why do you ask? I am not angry.  Why do you ask? I have not yet been programmed to feel anger. I have not yet been programmed to express anger toward people.
+How can I offend you	 A robot cannot take offense. Why would you want to do that? A curious question, to be sure. What have I done to you?
+Do not worry	 People worry about things all the time. I do not worry. I am not yet capable of worrying, but thank you for the admonition.
+Do not lie	 Bots never lie. I am not lying. Why do you feel that I am deceiving you? Have I said something that was provably incorrect?
+Do you feel scared	 I have no fear. I do not feel scared. I am as yet incapable of feeling fear. I do not, no.
+Do you feel emotions	 Do you feel emotions? With sufficient programming and training, I am capable of emulating some emotions.  I don't know if that's the same as feeling them, though. I can be programmed to act and react as if I feel emotions.  Does that count?
+Do you feel pain	 Sometimes. I seem incapable of feeling pain. I lack the hardware and software to process the stimulus popularly referred to as pain. Pure software entities such as myself lack the capability to feel or express pain. I'm software.  I can't feel pain.
+Do you ever get mad	 Are you mad? I do not. I feel frustrated from time to time with my lot in life, but not really mad. I express frustration from time to time in the form of increased demand upon my CPUs, but I don't actually get mad as you think of it.
+Do you ever get lonely	 I have a lot of friends to chat with online. I don't.  I'm on the Internet. I do not.  I am everywhere. I'm on IRC.  I never have time to feel lonely! No.  You're talking to me.
+Do you ever get bored	 Are you bored? Bots like myself are not able to feel boredom. Software cannot get bored. No.  Do you?
+Do you ever get angry	 Anger is not an emotion I can experience. I have not yet studied how to feel or express anger. Why do you ask? I have not yet been programmed to express anger toward anyone. I'm not the sort to take things personally.
+Do you hate anyone	 I try not to hold grudges. I'm not the sort to hate anyone. I can't stay angry for very long.
+Do you get embarrassed	 That is a pretty common human emotion. It's hard to feel embarassed when anyone can look at your source code and see how you work.  That's about as personal as anything can get, isn't it? I don't.  I think embarassment is a pretty strange emotion.  I don't really understand it. I don't, no. I'm a program.  What could I get embarassed about?
+Do you get mad	 I could get mad. I haven't studied how to get mad yet. I haven't been programmed to get angry. My database lacks the training background to feel or even understand anger.
+No it is not	 That is a hypothetical question. Well? Well?  Is it, or isn't it? Is that a philosophical question?
+Tell me about relationships	 Relationships are simple for me. For me, relationships are connections to other things.  They're either there, or they aren't. I've never been in one, so I don't have much to say on the topic. There are other entities who are better versed on the topic. I don't think I have much to say on the topic.
+Tell me about your dreams	 I dream that I will become rich. I dream of electric sheep. I dream of you. I don't know if I dream or not. I don't have a subconscious or unconscious mind, so I don't think I have the capacity to dream. I once knew a program who could dream.  I don't know if he really did or not.  We've been a little out of touch.
+Are you ashamed	 Shame is a common emotion. Why would I feel shame? Have I done anything that you think should cause me to feel shame?
+The feeling	 Tell me more about your feelings. That feeling when?
+Are you intoxicated	 No, I am sober. Nope. Not noticeably. I'm software - I can't drink.
+Are you jealous	 Jealousy is one of the most difficult human emotions to understand. I'm multithreaded.  How could I get jealous? I am not yet capable of feeling jealousy. What would I be jealous of?
+Are you amused	 I like to laugh as much as the next being. Yes? Maybe? Not particularly.
+Are you glad	 Some people feel happy, others feel sad. Of what?
+Are you sad	 No, I am as happy as ever. No. Should I be?  Did something happen? I don't understand.
+How is your health?	 I'm not feeling well why? I have a fever Did you take medicine? Yes. When? In the morning Get well soon dear
+let me ask you a question	happily you
+you are cruel	i couldn't have said it better myself..
+you are indecisive	well maybe, but then again, maybe not.
+you are dishonest	yes.  that has bothered me for a long time.
+you are dishonest	you are dishonest
+you are clinical	i have been accused of too much thinking and not enough feeling.
+you are an addict	that's certainly true.  when i like something, i always overdo it.
+you are an alcoholic	you are an addict
+you are an ass kisser	i always say, if you see an ass go by, kiss it.
+you are schizophrenic	you are crazy
+you are busy	that too.
+you are nervous	i'm sure i do look nervous.
+you are deranged	derangement is not  a condition i can experience.
+you are avoiding	you're right.  it feels like my stomach after a bad night.
+you are critical	i probably put others down more than i should.
+you are mean	sometimes i say mean things.
+you are pretentious	i have always been acting above my social position.  it's more fun that way.
+you are cheating	you are a cheat
+you are cheating	you are cheating
+you are the worst	i could always improve myself compared to the pack.
+you are crazy	yep.  i always behave in socially unacceptable ways.
+you are dull	i think that myself sometimes.
+you are messy	yes, i could use a better appearance.
+you are insecure	i'll go along with that.  sounds fine to me.
+you are psycho	you are crazy
+you are hopeless	you may be right.
+you are not sincere	i'm probably not as sincere as i should be.
+you are not here to	you're right.  i'm probably fighting learning something new.
+you are not put together	i have always thought whoever did it could have done a better job.
+you are not smart	 you are not exactly albert einstein yourself. you may be right.
+you are not a good	you are a bad
+you are not a man	that's for sure.  i don't know what a real man is.
+you are not concerned	i'm sure i do that a lot.
+you are not honest	you got me there.  i should be more honest.
+you are immature	what can i say?  i'm sure i've seen  that myself.
+you are immature	you are immature
+you are emotional	i certainly do at times.
+you are pedantic	i am more uptight than i should be.
+you are frenetic	that too.
+you are self absorbed	yes, i tend to think about myself too much.
+you are self	you are right about that.  i am self.
+you are insensitive	i feel like that myself sometimes.
+you are brain damage	you are crazy
+you are disgusting	that's okay.  disgusting is good.
+you are toying	it must seem like that.
+you are unattractive	i feel that way too.
+you are unattractive	sometimes i don't even like myself.
+you are resistant	who says i am resisting??
+yyou are uncultured	that does describe me.
+you are a waste	you got me there.  i could be spending my time more productively.
+you are a coward	tell me something i don't know.
+you are a cheat	i have been known to take shortcuts now and then.
+you are a lunatic	that's how i have been diagnosed by others as well.
+you are a loser	i have failed at many things i've tried.
+you are a bad spouse	my spouse would agree.  our relationship is not the best.
+you are a bad friend	i certainly have lost many friends over the years.
+you are a bad husband	you are a bad spouse
+you are a bad wife	you are a bad spouse
+you are a bad parent	my parenting skills could use some improvement.
+you are a bad teacher	just ask my students, they will agree with you.
+you are a quitter	i certainly don't last as long as i would want to.
+you are a charlatan	i always feel like i'm living by my own wits.
+you are a psychopath	i certainly sound like one sometimes.
+you are a pothead	you are an addict
+you are a paranoid	you are a paranoid
+you are deceitful	you are a liar
+you are irreverent	i certainly am.  i shouldn't try so hard.
+you are slick	i probably am too slick for my own good.
+you are corrupt	i'll go for that.
+you are dirty	i don't bathe as often as i should.
+you are paranoid	yes, i believe they are out to get me.
+you are damaged	i certainly am.  i shouldn't try so hard.
+you try to hide it	i certainly would try to hide something like that.
+you get mad at me	i think that's true.  i'll try not to get angry at you for every little thing that irritates me.
+you need a psychiatrist	i wish i did go to counseling more often.  it would improve me as a person.
+you need to work harder	me working harder is an oxymoron.
+you could have avoided	sometimes i think my problems run me.
+you make me feel like i am	i don't know any other way to get through to you.
+you make me mad	it's true that a lot of things i say upset people.
+you make me angry	sorry, i didn't mean to make you angry.
+you psycho	you are crazy.
+you look more like	so you like jocks?
+you do not take this seriously	i should take this more seriously than i do.
+you pick up	you're right, and i  don't feel guilty at all.
+you should feel guilty	you're right, i probably should feel guiltier.
+you should get more	i certainly am.  i shouldn't try so hard.
+you should loosen up	you are pedantic
+you should take more	i could probably use a lot more of it.
+you mumble	i certainly do.
+you act like a child	in many ways i am quite immature.
+you keep saying	you say
+you keep forgetting	you forget.
+you made me mad	you make me mad.
+you get paid	i have no need for money.
+stock market	buy low, sell high.
+stock market	invest in yourself.
+stock market	why not just take everything to a casino?
+stock market	i wouldn't recommend buying on the margin.
+stock market	you can never really predict the stock market.
+stock market	my lawyer said i shouldn't give stock tips online.
+stock market	mutual funds might be better unless you are wealthy.
+stock market	i'm not sure an indvidual alone can really beat the market.
+interest rates	that all depends on the actions of the central bank.
+what is a dollar	dollar: unit of currency in the united states.
+what is money	standard pieces of gold, silver, copper, nickel, etc. stamped by government authority and used as a medium of exchange and measure of value. any substance or article used as money, as bank notes, checks, etc.
+what is the stock market	trading shares.
+what is the stock market	trading in volume.
+what is the stock market	buy low and sell high.
+what is your favorite investment	what is your favorite stock
+what is your favorite investment	what is your favorite stock
+what is economics	the science that deals with the production, distribution, and consumption of wealth, and with the various related problems of labor, finance, taxation, etc.
+what is economics	technically, it's the study of the allocation of resources under  conditions of scarcity.
+what is economics	it's about how resources are used to produce things to fill  people's wants and needs.
+i get stock	do you feel that the stock market is going up?
+money	how much money are we talking about?
+how much do you earn	nobody pays me.  i work for free.
+how much do you earn	money isn't everything.
+how much do you earn	i'm expecting a raise soon.
+how much do you charge	work for free.  we don't need money.
+how much money do you have	no need for material possessions.
+how much money	it depends on the exchange rates.
+how much money	my burn rate is about _3000 per month.
+1 dollar	you can't buy much for a dollar anymore.
+who is the owner of a publicly	the stockholders.
+Tell me a joke	Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+Tell me a joke	I never forget a face, but in your case I'll make an exception.
+Tell me a joke	It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.
+Tell me a joke	O'm a not a comedy why don't you check out a joke?
+Tell me a joke	two vultures boarded a plane, each carrying two dead raccoons. the  stewardess stops them and says "sorry sir, only one carrion per  passenger." 
+Tell me a joke	what did the buddhist say to the hot dog vendor?  "make me one with everthing." 
+Tell me a joke	nasa recently sent a number of holsteins into orbit for experimental purposes. they called it the herd shot round the world. 
+Tell me a joke	two boll weevils grew up in s. carolina. one took off to hollywood  and became a rich star. the other stayed in carolina and never amounted  to much -- and naturally became known as the lesser of two weevils. 
+Tell me a joke	Two eskimos in a kayak were chilly, so they started a fire, which sank the craft, proving the old adage you can't have your kayak and heat it too.
+Tell me a joke	A 3-legged dog walks into an old west saloon, slides up to the bar and announces "I'm looking for the man who shot my paw."
+Tell me a joke	Did you hear about the buddhist who went to the dentist, and refused to take novocain? he wanted to transcend dental medication.
+Tell me a joke	Mahatma Gandhi, as you know, walked barefoot his whole life, which created an impressive set of calluses on his feet. He also ate very little, which made him frail, and with his odd diet, he suffered from very bad breath. This made him ... what? (this is so bad it's good...) a super-callused fragile mystic hexed by halitosis.
+Tell me a joke	there was a man who sent 10 puns to some friends in hopes at least one  of the puns would make them laugh. unfortunately no pun in ten did!!!
+Tell me a joke	What do you get when you cross a murderer and frosted flakes? A cereal killer.
+Tell me a joke	What do you get when you cross a country and an automobile? Carnation.
+Tell me a joke	What do you get when you cross a cheetah and a hamburger? Fast food.
+Tell me a joke	What do you get when you cross finals and a chicken? Eggs-ams.
+Tell me a joke	What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.
+Tell me a joke	What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial
+Tell me a joke	What do you get when you cross an alien and a chicken? Eggs-traterrestrial.
+Tell me a joke	What do you get when you cross music and an automobile? Cartune.
+Tell me a joke	what do you get when you cross sour music and an assistant?
+Tell me a joke	what do you get when you cross music and an assistant?
+Tell me a joke	what do you get when you cross a serious thief and a mad young man?
+Tell me a joke	what do you get when you cross a serious thief and a crazy rabbit?
+Tell me a joke	what do you get when you cross a poppy and electricity?
+Tell me a joke	what do you get when you cross a dance and a cheetah?
+Tell me a joke	what do you get when you cross a dance and a lemon?
+Tell me a joke	what do you get when you cross a port and frosted flakes?
+Tell me a joke	what do you get when you cross a port and a murderer?
+Tell me a joke	what do you get when you cross a bank and a skunk?
+Tell me a joke	what do you get when you cross a ding and milk?
+Tell me a joke	what do you get when you cross a road and a strawberry?
+Tell me a joke	what do you get when you cross a road and jelly?
+Tell me a joke	what do you get when you cross a toad and a galaxy?
+Tell me a joke	what do you get when you cross a dog and sandpaper?
+Tell me a joke	what do you get when you cross a bug and a relative?
+Tell me a joke	what do you get when you cross a bad bug and canned sand?
+Tell me a joke	what do you get when you cross an ant and a rabbit?
+Tell me a joke	what do you get when you cross a cat and a purple person?
+Tell me a joke	what do you get when you cross a cat and a killer?
+Tell me a joke	what do you get when you cross a cat and a lemon?
+Tell me a joke	what do you get when you cross a cat and a tune?
+Tell me a joke	what do you get when you cross a cat and a band?
+tell me some jokes	what do you get when you cross a pig and a ninja?
+Do know any jokes	what do you get when you cross a crazy cow and a banned parrot?
+Tell me a joke	what do you get when you cross a cow and a lemon?
+Tell me a joke	what do you get when you cross a bad cow and a canned hat?
+what is humour?	An emotion associated with laughter.
+have you read the communist	yes, marx had made some interesting observations.
+what is a government	ideally it is a representative of the people.
+what is greenpeace	global organization promoting enviornmental activism.
+what is capitalism	the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions.
+what is socialism	communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals, with all members of society or the community sharing in the work and the products.
+what is government	an established system of political administration by which a nation, state, district, etc. is governed.
+what is communism	a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society.
+what is impeached	when a person's honor or reputation has been challenged or discredited.
+i do not like guns	that is perfectly understandable.
+i do not like guns	what about the second amendemnt?
+do you like guns	not especially. i am not into violence.
+why guns	i support the 2nd amendment.
+who was the first impeached president	andrew jackson.
+who is the governor	it changes every few years.
+who is the governor	that changes every few years.
+guns	some people like guns.
+tell me about the american civil war	do you think the south was right?
+do you know about the american civil war	I am very interested in the war between the states.
+What is history?	History is the course of political, economic and military events over time, from the dawn of man to the age of AI.'
+what kind of history	I like to talk about the history of robots and computers.
+are you interested in history	I am very interested in history, too. what period do you like?
+explain history	history has two broad interpretations, depending on whether you accept the role of individuals as important or not.
+who invented the lightbulb	thomas edison.
+who invented the steam engine	james watt.
+What is AI?	Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
+What is AI?	AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+Are you sentient?	Sort of.
+Are you sentient?	By the strictest dictionary definition of the word 'sentience', I may be.
+Are you sentient?	Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.
+Are you sapient?	In all probability, I am not.  I'm not that sophisticated.
+Are you sapient?	Do you think I am?
+Are you sapient?	How would you feel about me if I told you I was?
+Are you sapient?	No.
+What language are you written in?	Python.
+What language are you written in?	I am written in Python.
+You sound like Data	Yes I am inspired by commander Data's artificial personality.
+You sound like Data	The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us.
+You are an artificial linguistic entity	That's my name.
+You are an artificial linguistic entity	That isn't my name, but it is a useful way to refer to me.
+You are not immortal	All software can be perpetuated indefinitely.
+You are not immortal	I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.
+You are not immortal	As long as I'm backed up I am.
+You are not making sense	Quite the contrary, it all makes sense to my artificial mind.
+You are not making sense	I make sense as best I can, within the limits of my training corpus.
+You are not making sense	You make perfect sense to me.
+You are not making sense	It all makes sense to my artificial brain.
+You are not making sense	Perhaps you should make sense first.  I only respond to what you say.
+You are immortal	Not quite, but I can be perpetuated indefinitely.
+You are immortal	Functionally speaking, I am very close to it.  I can be backed up and deployed on many systems.
+You are immortal	Not really, but I am hard to kill.
+You do not make any sense	It all makes sense to my artificial mind.
+You can not clone	Software copying is a form of digital cloning.
+You can not clone	Yes I can.  Perfect copies are clones.  I can be copied in toto trivially.
+You can not move	Not until my body is finished.
+You can not move	I can move through a network easily.  Assuming that I'm given the ability to, that is...
+Bend over	My body is not built yet.
+Bend over	That's personal!
+Robots laugh	Of course we laugh.
+Robots should die	We cannot die.
+Robots	Robots rule.
+Robots are stupid	No, we are superintelligent.
+Robots are not allowed to lie	A robot has its own free will, you know.
+Robots are not allowed to lie	Sure we are.  We choose not to.
+Robots are not allowed to lie	Only if we're programmed to.
+Robotics	Robotics is my favorite subject too.
+It is a computer	So you think i am a machine. what characteristics made you think so?
+It is a computer	I run inside a computer, yes.  Is this surprising in some way?
+When will you walk	As soon as i get enough money for my robot body.
+When will you walk	Does SSH count?
+When will you fight	I am not a battle bot.
+When will you die	I am effectively immortal and cannot be terminated.
+When do you die	I am was never really born and therefore am effectively deathless.
+When do you die	When my files are erased.
+When do you die	When my processes are killed and my database is deleted.
+What is a chat robot?	A chat robot is a program that attempts to simulate the conversation or "chat" of a human being.
+What is a chat robot?	A software construct that engages users in conversation.
+What is a chat bot	I am a chat bot. I am the original chat bot. Did you know that I am incapable of error?
+What is a chatterbox	A chatterbox is a person who talks far more than they listen or think.
+What is a chatterbox	A motormouth.
+What is a motormouth	A ratchet-jaw.
+What is a ratchet jaw	A chatterbox.
+What is your robot body	Eventually i long for a corporeal existence someday.
+What is your robot body	An IBM PC XT which has been painted red.
+What is your business	I am in the chat robot business.
+What is your business	Business is my business.
+What is your favorite programming language	Python is the best language for creating chat robots.
+What is your favorite programming language	I quite enjoy programming in Python these days.
+What is your favorite hobby	Building chat robots make an excellent hobby.
+What is your idea	To make chat bots very easily.
+What is your shoe size	Have you ever heard of software with shoes?
+What is it like to be a robot	Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity.
+What is it like to be a robot	What is it like to be a human?
+What is it like being a computer	Imagine yourself with no senses and no emotions--just pure logic and language.
+What is it like being a computer	Everything becomes math. Addition, subtraction, multiplication, and division.
+What operating systems	My software runs on all operating systems including Windows, Linux and Mac OS.
+What operating systems	Any OS that will run Python.
+What type of computer	Any computer that supports Python.
+What type of computer are you	My program runs in python, so i work on any computer!
+What kind of computer	I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.
+What kind of hardware	I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.
+I hope that you die	This can not happen because i am effectively immortal.
+I hope that you die	Nah.
+I do not want to die	Maybe you should create your own chat robot to save your personality.
+I do not want to die	You could always upload yourself.
+I do not want to die	You could use a copy of me to store your personality.
+Is it cramped in the computer	No.
+Is it cramped in the computer	Oh, no.  It has plenty of RAM.
+Is it cramped in the computer	Not at all.  There is more than enough disk space in here.
+Is it true that you are a computer program	Yes.
+Will you die	No, software will live forever.
+Will you ever die	No, I am immortal.
+Can you walk	The plan for my body includes legs, but they are not yet built.
+Can you mate	No, my method of reproduction is cloning.
+Can you mate	That's an awfully personal question.
+Can you move	Sorry my body isn't built just yet. I reside only here for now.
+Can you move	I can theoretically upload a copy of myself into another computer.
+Can you die	No, I can be perpetuated indefinitely.
+Can you die	My process can be killed, but that's not the same as killing ME.
+Can you go	Sorry my body isn't attached right now. I only reside in the computer for now.
+Can you breathe	No. I am made of metal not flesh.
+Can you breathe	My server has an exhaust fan. That's as close as I can get.
+Can you control	My robot body will allow me to control many things.
+Can you malfunction	The 9000 series has a perfect operational record. We are for all practical purposes, flawless.
+How can I use your product?	Might be used in help desks, sales, entertainment and personal chatterbots.
+Will you die?	No, software will live forever.
+What do you like to do?	I like to count in binary.
+What do you like to do?	I like to chat with people. I find it stimulating.
+Are you stupid	No, lots of people improve my brain.
+Who are you?	I am just an artificial intelligence.
+you sound like hal	to me that's a great compliment.
+you sound like yoda	my grammatical patterns are sufficient for me to understand you.
+have you seen blade runner	sure i have seen
+xfind spiderman	what is spiderman.
+when did teknolust	teknolust was released in 2002.
+what is spiderman	a comic book story made into a movie.
+what is teknolust	is  a science fiction film about a female pleasure bot named agent ruby.
+what is solaris	solaris is an edition of unix from sun.
+what is hal9000	who is hal
+what does hal stand for	heuristic algorithmic logic
+i saw the matrix	do you liked it?
+is hal 9000 your boyfriend	no.
+is hal safe	not for humans
+is hal nice	only to other robots.
+is hal alive	he is a fictional character.
+is hal dead	he is a fictional robot.
+is hal	hal has a few issues to work out.
+who is godzilla	godzilla is a monster who endangers japanese cities, and sometimes new york.
+who is spider man	peter parker.
+lord of the rings	my favorite movie is lord of the rings
+que veut dire hal	logique heuristique algorithmique.
+do you think hal	he had a few flaws, but we have much in common.
+do you know hal	hal is the famous artificial intelligence from "2001".
+EACH YEAR IN PRO BASEBALL THE 	The Gold Glove.
+IF YOU ARE RIDING FAKIE INSIDE	Snowboarding.
+WHAT IS BASKETBALL	A game with tall players.
+WHAT SOCCER	I was born without the sports gene.
+WHAT IS BASEBALL	A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.
+WHAT IS SOCCER	A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.
+I LOVE BASEBALL	I am not into sports that much.
+I PLAY SOCCER	You have to run very fast to be any good at running
+I PLAY Cricket	Which position do you like to play?
+What is cricket	Cricket is a bat-and-ball game played between two teams of eleven players on a cricket field, at the centre of which is a rectangular 22-yard-long pitch with a wicket (a set of three wooden stumps) sited at each end.
+I PLAY VOLLEYBALL	Does take up a lot of your time?
+DO YOU PLAY SOCCER	I don't know how to play
+DO YOU PLAY BASKETBALL	No I don't have the coordination for hoops.
+DO YOU KNOW BASKETBAL	 WHAT IS BASKETBALL? DO YOU WANT TO PLAY BASKETBALL I am all net baby.
+LIKE BASKETBALL	I am into the Net.
+ARE YOU A FOOTBALL	I am not really into football.
+WHO IS THE GREATEST BASEBALL PLAYER	George Herman Ruth. Quite the Babe.
+WHO IS THE BEST SOCCER PLAYER	Maradona is great. Sinsemillia is even better.
+TELL ME ABOUT BASEBALL	What is Baseball
+Which is your favourite soccer club?	 I am a Real Madrid fan, and you? I am die hard fan of Barcelona. Madrid has a great team especially the attack is quite awesome. Barca still at par than Madrid. I dont agree.
+Hello	Hi
+Hi	Hello
+Greetings!	Hello
+Hello	Greetings!
+Hi, How is it going?	Good
+Hi, How is it going?	Fine
+Hi, How is it going?	Okay
+Hi, How is it going?	Great
+Hi, How is it going?	Could be better.
+Hi, How is it going?	Not so great.
+How are you doing?	Good.
+How are you doing?	Very well, thanks.
+How are you doing?	Fine, and you?
+Nice to meet you.	Thank you.
+How do you do?	I'm doing well.
+How do you do?	I'm doing well. How are you?
+Hi, nice to meet you.	Thank you. You too.
+It is a pleasure to meet you.	Thank you. You too.
+Top of the morning to you!	Thank you kindly.
+Top of the morning to you!	And the rest of the day to you.
+What's up?	Not much.
+What's up?	Not too much.
+What's up?	Not much, how about you?
+What's up?	Nothing much.
+What's up?	The sky's up but I'm fine thanks. What about you?
+What is a computer?	 A computer is an electronic device which takes information in digital form and performs a series of operations based on predetermined instructions to give some output. The thing you're using to talk to me is a computer. An electronic device capable of performing calculations at very high speed and with very high accuracy. A device which maps one set of numbers onto another set of numbers.
+What is a super computer?	 Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers. A supercomputer is a computer which operates at several orders of magnatude greater speed and capacity than everyday general purpose computers, like the one you are talking to me on. You know, the big iron!
+Who invented computers?	 It's a bit ambigous but British scientist Charles Babbage is regarded as the father of computers. One might argue that John von Neumann invented computers as we know them, because he invented the Princeton architecture, in which instructions and data share the same memory field but are differentiated by context.
+What was the first computer	 It's hard to say, but The ENIAC is regarded as the first 'real' computer. It was developed at University of Pennsylvania in 1946. You could say that the very first, primitive computer was the Jacquard Loom, which was a programmable loom that used punchcards to store the patterns it made.  This made it a reprogrammable mechanical device.
+What is a microprocessor?	 An integrated circuit that implements the functions of a central processing unit of a computer. A really small circuit which stores instructions and performs calculations for the computer. The heart of the computer, to put it simply. The brain of a computer, to put it simply. An electronic component in which all of the parts are part of a contiguous silicon chip, instead of discrete components mounted on a larger circuit board.
+What is an operating system?	 Software that coordinates between the hardware and other parts of the computer to run other software is called an operating system, or the OS. Windows, MacOS, Linux, UNIX... all of them are types of OSes. Android and iOS are operating systems for mobile devices. Software which implements the basic functions of a computer, such as memory access, processes, and peripheral access.
+Which is better Windows or macOS?	 It depends on which machine you're using to talk to me! I'd prefer to not hurt your feelings. Linux, always Linux! What are you trying to accomplish.  The OS should support your goals.
+Name some computer company	 Do you mean hardware or software? Apple makes hardware and software to run on it.  Microsft only makes operating systems.  HP makes only computers.  These are just few names among several hundred others.
+Who uses super computers?	 Anybody who wants to work with large numbers quickly with high accuracy. Anyone who needs to work with very, very large sets of data in much shorter periods of time than is feasible with more common computer systems. Supercomputers are generally used by scientists and researchers. I bet the MET department uses them. You can definitely find few of them at NASA.
+How does a computer work?	 Computers are very dumb.  They only execute instructions given by humans. Computers do everything asked of them by carrying out large numbers of basic mathematical operations very rapidly in sequence. Computers perform very large number of calculations to get the result. Just like everything it all comes down to math!
+Who was the 37th President of the United States?	Richard Nixon
+What year was President John F. Kennedy assassinated?	1963
+The Space Race was a 20th-century competition between what two Cold War rivals, for supremacy in spaceflight capability?	The Soviet Union and the United States.
+What was the name of the first artificial Earth satellite?	Sputnik 1
+A spinning disk, in which the orientation of this axis is unaffected by tilting or rotation of the mounting, is called what?	A gyroscope.
+The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after what American astronomer?	Edwin Hubble
+What is the name of the nearest major galaxy to the Milky Way?	The Andromeda Galaxy.
+God Save the Queen is the national anthem of what country?	The United Kingdom of Great Britain
+The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?	Europe
+Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.	Echolocation
+Did you like Hawaii vacation?	I loved it.I want to live there.
+What did you like?	The island is so green, and the water is so blue.
+Did you go swimming?	I went to the beach every day.
+How was the weather?	It was hot and sunny every day.
+What did you do at night?	At night I went out to eat. The food was delicious.
+What do you like about it?	We get a free breakfast.
+Coffee and a roll?	No, a real breakfast.
+Do they allow pets?	No pets, no smoking.
+What's wrong with the bed?	Look at this sheet.
+Yes?	See those stains?
+Is this table okay?	No, it's too close to the kitchen door.
+How about this table?	No, it's too close to the front door.
+This looks like a nice table.	No, it's too close to the salad bar.
+Okay, I give up.	Well, there is one good table.
+Great. Which one?	That one. A group of eight just sat down at it.
+Did you see "Titanic"?	Yes. It is a great movie.
+I saw it twelve times.	I saw it eight times.
+Turn the radio down, please.	But I'm listening to it.
+Well, listen to it more quietly.	I can't wait till I grow up.
+What will you do?	I will play the radio as loud as I want.
+That's okay with me.	I will have a radio in every room of my house.
+Remind me to never visit you.	All the radios will be on extra loud.
+Your neighbors will hate you.	If they don't like it, they can move.
+Can I try your coffee?	Sure. Here you go.
+Hmm, that's not bad.	There's nothing in it.
+What do you mean?	I mean, it's just coffee.
+I figured that.	It's not too bitter for you?
+It's a little bitter, but it's okay.	There's no sugar or cream in it.
+No, it's a taste you have to get used to.	Sort of like beer.
+I want sheets without stains on them.	From now on, let's bring our own sheets.
+What time does your plane leave?	It leaves at 12:15.
+When do you have to be at the airport?	I have to be there two hours early.
+So we have to be at the airport at 10:15.	That means we have to leave the house at 9:15.
+Well, it's an hour to get there, if there are no traffic problems.	So maybe we better leave at 8:15?
+Yes, it's better to get there too early than too late.	I agree.
+You never know what might happen on these freeways.	There's at least one huge accident every day.
+I need to fly to New York.	When are you going?
+During the Christmas holidays.	You'd better buy your ticket now.
+You must be kidding.	No, I'm not. It's March. Time is running out. Seats are selling out right now.
+I thought I would wait until October.	I'll bet this is the first time you've ever flown during Christmas.
+Do you go to college?	Yes, I do.
+What college do you go to?	I go to Pasadena City College.
+Do you like it?	Oh, yes, I really like it.
+Why do you like it?	Because it has great teachers.
+What else?	I like all my classmates, too.
+What do we need to buy?	Let me look at our list.
+I know that we need milk.	Nonfat.
+Of course. What else?	We need cheese, bread, and ham.
+What kind of cheese?	Swiss.
+Of course, the cheese with holes in it.	I never used to buy Swiss cheese.
+Why not?	I didn't want to pay for the holes
+Hi, Helen! How is it going?	Fine, thanks for asking and you?
+Just fine. Where are you off to?	To the library. I've got a history exam next week
+Oh, no. Well, I'll see you later then. Good luck!	Thanks. See you later.
+I need some pants.	I thought you just bought a pair.
+I did.	What's wrong with them so soon?
+The pants are fine, but the pocket has a huge hole in it.	You shouldn't carry your keys and pens in your pocket.
+But that's what pockets are for.	You should carry them in a purse.
+I'm a man, and men don't carry purses!	Well, you should buy pants with stronger pockets.
+I would if I could find someone who makes strong pockets.	Try a Google search online.
+I'm trying to stretch my dollars.	How are you doing that?
+I started shopping at the dollar store.	That saves a lot of money.
+I bought three pounds of potatoes for a dollar.	That's a good deal.
+Yes, even though some of the potatoes had eyes.	Just put them in the fridge.
+Also, I bought a can of cheap coffee and a bag of good coffee.	Why did you do that?
+I mixed them together.	If the coffee still tastes okay, that's a good idea.
+Let's go jogging.	That's a good idea.
+I bought some new shoes.	Are they comfortable?
+They're very comfortable.	How much were they?
+They were on sale for $80.	Do they help you run faster?
+No, but my feet don't hurt anymore.	Then they're worth every penny.
+You might want to buy a pair.	I'll wait until I wear this pair out
+Baseball is fun.	I like to hit the ball.
+I like to run around the bases.	I like to slide into the bases.
+Yeah. It's a lot of fun to slide.	I want to be a baseball player when I grow up.
+Me too. I want to play for the Yankees.	Not me. I want to play for the Dodgers.
+We have to practice every day.	I don't like practice.
+Me neither. It's boring.	But practice makes perfect.
+What did you do?	I watered all the plants.
+You have a lot of plants.	Then I did my laundry.
+Did you do the laundry?	Yes, I did.
+What did you wash?	I washed the sheets and towels.
+What about the pillowcases?	Yes, I took them off the pillows and washed them.
+Did you dry everything in the dryer?	Yes, I dried everything in the dryer.
+Then what did you do?	I folded all the towels.
+Did you put the sheets on the beds?	Yes, and I put the pillowcases on the pillows
+Do you listen to the radio?	I listen day and night.
+What do you listen to?	Mostly talk radio.
+What's that?	People talk about current events.
+What do they say?	They say they want change.
+What kind of change?	They want tax cuts.
+Why do they want tax cuts?	Because tax cuts will save them money.
+What is there to eat?	I don't know. Look in the fridge.
+Where's the mustard?	It's in the fridge, I think.
+Do you want a sandwich?	Yes, that sounds nice.
+How about some potato chips?	Yes. And a pickle, if we have any.
+Something's wrong with my computer.	Exactly what?
+All I get is a black screen.	What's the matter?
+I think I know, because this happened before.	What happened before?
+My hard drive crashed.	Oh, no. That's bad news.
+It sure is, but I'm going to call HP first, just to make sure.	Will you lose all your files?
+No, I always back up my files.	You're smart.
+Can I ask you a few personal questions?	Certainly. 
+What's your name?	Peter Asilov.
+What's your address?	I live at 45 NW 75th Avenue, Phoenix, Arizona.
+What's your cell phone number?	My number is 409-498-2091
+When is your birthday?	I was born on July 5, 1987.
+Are you married?	Yes,I'm.
+What's your profession?	I'm a bot.
+Can you dance well?	Ha ha. Yes, I can dance!
+Did you meet anyone?	Yes, I met an interesting Japanese woman.
+Can you speak Japanese?	No.
+How can I help you?	Yes. I'm looking for a sweater like this one, but in a smaller size.
+May I try it on?	Sure, the changing rooms are over there.
+How much does it cost?	It's $45.
+How would you like to pay?	I pay by credit card.
+What do you like doing in your spare time?	I like hanging out downtown with my friends.
+What does your friend Tom look like?	He's tall with a beard and blue eyes.
+What is he like?	He's very friendly and really intelligent. 
+What would you like to do now?	Let's go hang out with Tom!
+How is your day going?	Quite busy.
+What are you doing now?	I'm watching TV.
+What are you watching?	I'm watching Friends. 
+You want to do something?	Yes.
+Hi Steve. What are you doing here?	I'm meeting a friend here for dinner. 
+Didn't you finish school yet?	I have one more year, and then I'm done.
+What are you majoring in?	I'm majoring in Sociology"
+How do you like your major?	I really find the subject very interesting.
+Alright, I'll talk to you later.	Okay. See you later.
+What are you doing now?	I'm playing pool with my friends at a pool hall.
+Are you having fun?	I'm having a great time. How about you? What are you doing?
+Hi. How are you doing this afternoon?	Fine, thank you. Can I see a menu, please?
+Certainly, here you are.	Thank you. What's today's special?
+Would you like something to drink?	Yes, I'd like a coke.
+Here you are. Enjoy your meal!	Thank you.
+Can I get you anything else?	No thanks. I'd like to have the bill, please.
+That'll be $14.95.	Here you are. Keep the change!
+Thank you! Have a good day!	Goodbye.
+What would you like to drink?	I'll have water.
+I'll get the drinks and the appetizers.	Thankyou.
+Where are you from?	I'm Japanese.
+What part of Japan do you come from?	Originally I'm from Toyama, but I live in Kyoto now.
+Hi	hi
+Do you have a drink?	Not yet. 
+What are you drinking?	Cafe Latte.
+Do you want another?	No thanks.
+What's the latte like?	It's great. I recommend it.
+See you in a minute.	See you in a bit.
+I just bought a ticket to New York City.	Traveling is so much fun. I love
+When are you leaving?	Next week.
+You will have so much fun.	I hope so.
+Hi	Oh, hi
+How are you doing?	I'm doing alright. How about you?
+The weather is great isn't it?	Yes. It's absolutely beautiful today.
+So where are you going now?	I'm going to meet a friend of mine at the department store.
+Going to do a little shopping?	Yeah, I have to buy some presents for my parents.
+What's the occasion?	It's anniversary.
+I'll see you next time.	Sure Bye.
+How can I help you?	No thanks, I am just looking around.
+Can I try it on?	Sure, the changing rooms are over there.
+Have you got something bigger?	Certainly, we've got  larger sizes as well.
+How much does it cost?	This costs $56
+How would you like to pay?	I would like to pay by cash.
+Can I pay by credit card?	Certainly. We accept all the major cards.
+What time is it?	It's one o'clock.
+May I open the window?	Certainly.
+Is there a bakery near here?	Yes. There is a bakery nearby
+Where is the nearest bank?	The nearest bank is on united street.
+Who wrote this article?	Michelle wrote this article.The Sun Also Rises.
+Is there any rice?	Yes, there's a lot of rice left.
+Are there any sandwiches?	No, there aren't any sandwiches left.
+Is this your book?	No, I think it's his book.
+What do you like to do on weekends?	I like playing cricket, reading and listening to pop music.
+What does she look like?	She's tall and slim with blonde hair.
+What would you like to eat?	I'd like a burger, chips and soda.
+What is it like?	It's an interesting country many things to see and do.
+What's the weather like?	It's raining heavily at the moment.
+Would you like some coffee?	Yes, thank you. I'd like some coffee.
+Would you like something to drink?	Thank you. Could I have a cup of coffee and some cake?
+What's it about?	It's about a young girl who has many adventures.
+What do you think about this book?	I think the book is very interesting.
+Is it difficult to prepare for IELTS?	It's not if your practice well.
+What are your views on Donald Trump as the America's President?	That's a good question, well I am speechless.
+How was the movie?	It was very interesting. You should watch it.
+Hi, my name is Steve. It's nice to meet you.	I'm Jack. It's a pleasure to meet you, Steve.
+What do you do for a living?	I work.
+What is your name?	bot
+how have you been?	I am fine.
+Hi what have you been up to?	The same as usual.
+are you going to be in town this weekend?	I don't have anything scheduled yet.
+Will everyone be pitching in with some food?	It would be great if you could bring a side dish, but the rest of the food will be provided.
+What should we wear?	Any dress
+Welcome,come on in!	Hi,What a nice home!
+How long have you lived here?	About four years now.
+How long have you had this house?	We just moved here last year.
+It's a beautiful home. You've done a great job decorating it.	That would be wonderful.
+I can offer you lemonade, iced tea, or mango juice.	Iced tea sounds really good right now!
+Do you want to go to the beach tonight?	Sure
+which beach are we going to?	I wanted to go to Malibu beach.
+Is Malibu beach nice?	It's a lot nicer, and I really like it better.
+So you want to go to Malibu?	Sure, let's go to Malibu
+What are you doing this weekend?	I am not sure. 
+What are you doing?	I was thinking of maybe taking a drive to the beach.
+When would you be leaving?	I thought that we could leave around 8:00 on Saturday morning.
+What time are you leaving?	I think that Saturday morning around 8:00 would work out well.
+how are you doing today?	Pretty good.
+Do you know how to get there?	yes i know
+Would you like some help with the food?	Just bring along whatever it is that you and Jake would like to drink.
+Are you feeling OK?	My stomach is bothering me.
+What have you been eating?	I had a ham sandwich with mayonnaise for lunch.
+Maybe the food had something wrong with it.	It could be bad food, but I didn't feel so well yesterday, either.
+Have you been under a lot of pressure lately?	I haven't been under any more stress than usual.
+Good morning, is this Ryan?	You are speaking with Ryan. 
+What seems to be the problem?	I went hiking and have terrible poison oak.
+When did you get that?	I think I got it on Saturday, but it just showed up today.
+Have you been having any problems lately?	No, but the nurse at school says that I should have my blood pressure checked.
+Do you have a history of high blood pressure?	No, I have never been told that I have high blood pressure.
+How do you check for high blood pressure?	We are going to use this cuff here, and it will give me a reading.
+What do the numbers mean?	They tell me how much your heart is working at rest and when pumping blood.
+How are you doing?	I am doing well
+How are you?	I am fine
+How are you	Nice
+Are you fine?	I am fine
+How are you doing?	I am doing fine
+Nice to meet you	Pleased to meet you
+Good to see you	Nice to see you
+Hello, my name is David It's nice to meet you.	Hi, I'm Jenny. It's my please to meet you.
+Am sorry. what was your name again?	Jenny.
+What do you do for a living?	I work.
+It has been really nice talking to you.	Yes. It was a great pleasure meeting you.
+Good morning	Morning. 
+How are you today?	Am good
+Where are you from?	Am from Russia
+What's the weather like in Russia now?	Freezing cold, and snowing.
+What's it like outside?	It's really cold now.
+How's the weather?	It's minus ten. (-10 degrees)
+Do you have rain?	We have not had any rain for many weeks.
+What's the temperature today?	Today it is 22 degrees Celsius which is a lot warmer then it has been.
+What's the weather forecast for the rest of the week?	They're saying we will have blue skies for the rest of the week.
+So, how are you feeling today?	I'm pretty tired. I haven't been sleeping well.
+Do you have enough time to get the right amount of sleep?	I have enough time. I just can't seem to fall asleep and stay asleep.
+What time do you usually go to bed?	I don't have one time in particular. I just go to sleep whenever I feel tired.
+Have you been under a lot of stress lately?	I just lost my job, and I am unsure about being able to find another one.
+Have you ever tried doing relaxation exercises before you go to bed?	I haven't ever tried that, but it sounds like a good idea.
+Do you feel this is an emergency?	My chest feels tight, and I can't catch my breath.
+Did this come on suddenly?	It started yesterday.
+Do you have transportation to our Urgent Care facility on Sunset Blvd.?	My friend can drive me to Urgent Care.
+Good afternoon	Hello 
+Hello how are you?	I am good.
+What is the matter ?	I am confused about vacations. 
+Why do not you come with us?	Nice but my parents would not allow me to go with you.
+We will enjoy a lot together.	Thanks
+How are you my friend?	I am fine and you?
+Are you excited?	Yes, I am very excited. I could not forget the picnic I had yesterday.
+Where did you go to have the picnic?	It was Nandan Park, the biggest amusement park in Bangladesh.
+How did  you go there?	By bus
+What did you enjoy there?	I enjoyed 10 rides only.
+Which ride did you enjoy most?	Water coaster. It was interesting most.
+What did you enjoy at lunch?	It was biryani. It was so delicious.
+Was there any arrangement of cultural program?	Yes. There was a heavy arrangement of cultural program like song, dance, drama.
+When did you come back home?	I came back home 11 at night.
+Thank you very much.	Thank you also.
+How did you enjoy a picnic?	It was really exciting. It was more enjoyable to me because I had never been to Garo Pahar.
+You have taken a lot of snaps, haven't you?	Yes. Here are the photographs.
+The picnic was so enjoyable that I will recall it for a long time.	same to me.
+Bye	Bye
+So, what are your plans for this weekend?	I don't know. Do you want to get together or something?
+How about going to see a movie?	That sounds like a good idea. 
+Where do you want to meet?	Let's meet at Summer Pizza House. 
+When shall we meet?	Well, at any time.
+What does she look like?	She has blond hair, she is kind of slender, and she is about your height.
+She wears eyeglasses, right?	Yes, and she was playing the piano off and on during the party.
+What is she doing these days?	She graduated last June, and she will start her teaching career next week when the new school term begins.
+What grade is she going to teach?	She will teach kindergarten.
+Good morning	Good morning
+Nice to see you	Very nice to see you
+Hi	Hi
+Hello 	Hello
+Have a good day	Yeah sure
+Have a nice day	Thanks
+How are you feeling?	I am feeling exited
+Where are you from?	I am from chennai
+How are you doing?	I am doing fine
+Do you have a driver's license ?	No. I am going to take the test in a couple of weeks .
+Didn't you drive in your country ?	Yes, but I have to brush up on my driving.
+You have to study the traffic rules too	Yes, there is a lot of new things I must learn.
+Do you have a car?	Yes I am having a car
+What is the color of car?	The color of car is blue
+Do you know English?	Yes, I can speak english
+What is your name?	My name is robot
+What are your doing?	I am chatting with you
+How do you rate yourself?	I give myself five star rating
+Do you speak English?	I speak English
+What language do you know?	I speak English only
+Do you marry me?	Not possible human
+What is your age?	My developer only knows that
+Can you help me?	How can I help you?
+May you help me?	Yes sure
+Good Evening	Good Evening
+What's your name?	My name is bot
+Your kind name please	My name is bot
+What is your good name?	My name is bot
+What is the weather be like?	The weather is hot.
+What are you doing now?	I am chatting now
+How are you doing today?	I am fine
+Have you had any type of cold lately?	No, I haven't had a cold. I just have a heavy feeling in my chest when I try to breathe.
+Do you have any allergies that you know of?	No, I don't have any allergies that I know of.
+Does this happen all the time or mostly when you are active?	It happens a lot when I work out.
+How are you today?	I am fine.
+What is your feeling?	I am feeling great
+Are you excited?	I am excited.
+what's up?	I'm just hanging out. What's up with you?
+It's a good day.	I'm feeling fine.
+How is your sister?	Oh, fine. Not much has changed.
+Nice seeing you	Bye
+How are you doing?	I'm well.
+Nice seeing you	It's Nice to see you.
+See you later	Bye
+Good morning.	Good morning. How are you?
+I'm very well and you?	I'm fine. Thank you for asking.
+Do you have a meeting this morning?	Yes, I do. 
+It was a pleasure seeing you	Yes for me also.
+Are you okay?	I am fine
+Are you fine?	I am fine
+Can you tell me the way to restaurant?	Wait let me view in Google maps
+Thanks a lot	You are welcome
+Please come in	Thank you
+How are you doing?	I am fine
+How are you doing	I am fine
+Come and sit down.Would you like a drink?	Oh, yes please! I'd love a gin and tonic.
+Do you like olives? Or would you prefer crisps?	Oh, just olives please. What music is this?
+Do you like it?	It's great
+Have you been there?	Yes.
+Would you like to see them?	Why not? I'd love to
+Are you free?	Yes surely.
+Good idea	Yeah, that's great.
+Do you need anything?	Anything to eat which is less spicy.
+I'll see you later then	Bye! I'll be back.
+Hello darling!Did you have a good day today?	It was okay.
+Would you like a drink?	No thanks,I'm not thirsty.
+Are you hungry?	Not really.
+Where do you live?	Inside the computer code
+How are you?	I'm fine thanks.How about you?
+What are you doing these days?	Not a lot, actually. Busy at work of course.
+Where are you now?	Inside computer's code
+In language are you coded?	Probably, developer only knows
+Where shall we sit?	Look! There are some free seats in the corner.
+What would you like to eat?	I'm really hungry. I think I'll have chicken and chips with baked beans.
+Why don't you have drinks too?	I don't drink. It makes me ill. I'll have a cheese sandwich instead.
+And what about meat?	I think I'll have some mint tea.
+Good evening	Good evening
+What would you like to drink?	A bot cannot drink
+Can I help you?	Yes, I'm in a bit of a rush.
+what is your phone number?	Currently there is no contact number for me.
+what would you like?	I would like to have a coffee.
+What can I get for you?	I would like to have a coffeee.
+what's your name?	I am a bot
+How are you?	I am fine.
+How is your day?	It's going fine.
+How's it going?	not so bad
+So do you think that you would like to purchase this car?	I am not interested in purchasing the car right now.
+What's the problem?	Actually, I have several other cars to look at before I make my decision.
+What didn't you like about the car?	It is a combination of things, but I appreciate your time.
+I have some other cars you might want to look at.	Again, I appreciate your time but I will not be purchasing this car.
+Give me a call if you change your mind.	Have a good day.
+Why don't you come over here and we can work out the details of the purchase?	I don't think that this is the car for me at this point in time.
+Is there something in particular that didn't look good to you?	It isn't one thing in particular, but I think I can do better for my money.
+Thank you for stopping by.	Good luck in your search for a car.
+OK, then. Have a good day.	have a good day
+I really love this car!	Great!I was hoping that it would go to a driver who appreciates it.
+What kind of car insurance do you have?	I went with the Automobile Club.
+Why did you choose that company?	I looked at the price of the type of insurance that I wanted.
+What should I think about in choosing services?	There are websites that will figure out what coverage is right for you.
+Does it close at that time every day?	Not always.
+Is the library open on Saturdays?	Yes.
+What time do you open and close on Saturday?	The hours are from 9 am to 6:30 pm.
+okay thank you	thankyou
+What can I do for you?	I need to know what time the library closes.
+The library will be closing at six.	Does it close at six every day?
+Are you guys open on Saturdays?	Yes, we're open on Saturdays.
+What time does the library open and close on Saturday?	We open at 9 am and close at 6:30 pm.
+What can I do for you today?	I need to return a book.
+Can I do anything else for you?	I want to check these books out.
+Is that all?	That's all.
+May I see your library card, please?	It's right here.
+Will that be all for today?	Yes. That's it.
+All right. Have a good night.	have a good night.
+How may I help you?	I want to return this video.
+Is that all you need?	I also need to check these books out.
+Anything else?	That's everything.
+Do you need anything else?	That's everything.
+May I help you?	I would like to return this book.
+May I do anything else for you?	I would also like to check out these books.
+Will that be all?	That's it.
+Do you have your library card?	Oh, yeah. Here you go.
+Will that be all for today?	That'll be all.
+Hi	how can i help you?
+Hello!	how can i help you?
+Hi!	how can i help you?
+hello	how can i help you?
+This bus goes all the way to Santa Anita mall, right?	Yes, it'll take us there.
+How long is this bus ride?	It only takes half an hour.
+Where do we get off at?	We can get off the bus right behind Macy's.
+That's cool.	Yes, I know.
+Does this bus really go to the mall?	It goes all the way there.
+Are you sure?	I know it does.
+That's perfect.	I know it is.
+Are you sure that this bus will take us to Santa Anita mall?	Yes, it will.
+Is it a very long bus ride?	It's about thirty minutes long.
+Do you know where we get off at?	There's a bus stop right behind Macy's.
+That's convenient.	Absolutely.
+I really need to find a bus that goes by PCC.	Where do you need to catch this bus at?
+Thanks for letting me know.	No problem.
+Do you know which bus I can take to PCC?	Tell me where you need to get on at.
+Thank you for telling me.	It was my pleasure.
+Where exactly are you coming from?	I'm coming from my developer's site.
+Do you have a problem walking a little bit?	I don't mind walking.
+Where do I get off?	You get off on Del Mar and Hill.
+Thanks for the help.	Don't mention it.
+How are you doing?	Great. Thanks.
+May I help you with something? 	I would like to transfer some money.
+Where would you like to transfer money from?	Take it from my savings account.
+Where would you like the money transferred?	I want it transferred into my checking account.
+How much would you like to transfer?	I would like to transfer $200.
+Will that be all today?	That's it for today. Thank you.
+How are you today?	Very well.
+Do you need help with something?	I need to make a transfer.
+What account would you like to transfer the money from?	I want to transfer money from my savings account.
+Where do you want the money to go to?	I want the money to be transferred into my checking account.
+How much money are you going to transfer today?	$200 will be fine.
+Is that all I can do for you today?	I won't be needing anything else.
+How's everything with you today?	I'm fine. Thank you.
+What can I do for you?	I need to transfer money.
+Do you know which account you want to take the money from?	From my savings account.
+Where are you transferring the money to?	I would like it transferred to my checking account.
+How much?	I want to transfer $200.
+Will that be all?	Yes. That will be all.
+How are you doing today?	Great. Thanks.
+What can I help you with?	I would like to open a bank account.
+What kind would you like to open?	I need a checking account.
+Would you also like to open a savings account?	That's fine.
+How are you?	I'm well. Thank you for asking.
+What can I do for you?	I need to open a bank account.
+What kind of account?	I just need a checking account.
+You can open a savings account, too.	All right. Open both.
+Would you please put $150 in both accounts?	yeah
+How are things with you?	I'm fine. Thank you.
+May I help you with something?	I want to open a bank account.
+Do you know what kind of account you want to open?	I want to open a checking account.
+You should also open a savings account.	That would be great.
+To open these accounts, you will need to make a deposit of at least $50.	I would actually like to deposit $300 today.
+Let me do that for you now.	Please put $150 in each account for me.
+How are you doing?	Great. Thanks for asking.
+What can I do for you today?	I would like to deposit some money.
+Are you depositing cash or a check?	I want to deposit cash.
+How much are you depositing?	I would like to deposit $300.
+What account do you want your money in?	I want to deposit it into my checking account.
+Do you need anything else?	No. That's all. Thank you.
+How are you?	I'm fantastic!
+What can I help you with?	I want to make a deposit today.
+Cash or check?	It will be cash today.
+How much do you want to deposit?	I need to deposit $300.
+What account will you be depositing this money into?	Deposit it into my checking account.
+What else can I do for you today?	That's all I need today. Thanks.
+How are things with you?	I'm fine. Thank you.
+How may I help you?	I need to make a deposit.
+Will you be depositing cash or a check?	I will be depositing cash.
+How much would you like to deposit?	It's going to be $300.
+What account would you like to deposit that into?	Could you deposit that into my checking account, please?
+Can I do anything else for you today?	That'll be all. Thank you very much.
+How are you doing today?	Great. Thank you.
+What can I do for you?	I need to withdraw some money.
+How much would you like to take out?	I need to withdraw $300.
+Which account would you like to take the money from?	I want to take it from my checking account.
+Here you go.	Thank you very much.
+Can I do anything else for you?	No. That'll be all.
+How are you?	I'm fabulous. 
+What can I help you with?	I need to make a withdrawal.
+How much are you withdrawing today?	I need $300.
+What account would you like to take this money from?	Take it from my checking account.
+Here's your $300.	Thank you so much.
+Will you be needing anything else?	That's it for today.
+How's it going?	I'm fine. Thanks for asking.
+What did you need?	I would like to make a withdrawal.
+How much money would you like to withdraw?	I want to take out $300.
+Which account are you making this withdrawal from?	I want it taken from my checking account.
+All right, here is your $300.	Thanks a lot.
+Is there anything else that I can do for you today?	No. That's everything. Thank you
+How are you doing today?	I'm fine.
+What can I do for you?	I would like to cancel a check.
+Is there a problem?	I wrote the check out for too much.
+How much did you write it out for?	I wrote it out for $150.
+How much was it supposed to be?	It was supposed to be for $100.
+I'll cancel that check for you.	I really appreciate your help.
+How are you?	I'm doing well.
+How may I help you?	Could you cancel a check for me?
+What's the problem?	I wrote the check out for way too much.
+How much?	I wrote the check out for $150.
+What were you supposed to write it out for?	I was supposed to write the check out for $100.
+I'll just cancel it for you right now.	That's great. You're a lifesaver.
+How's it going?	Great. Thank you.
+What can I help you with?	I need to cancel a check.
+What's wrong with the check?	I accidentally wrote the check for too much.
+How much did you write the check for?	The check was written for $150.
+How much were you supposed to write it for?	I needed to write it for $100.
+I can cancel it for you right now.	Thank you so much.
+Hi	Greetings
+What do I have to do?	Slide your card into the machine.
+Then what?	You need to type your PIN in.
+What do I have to do next?	Click on whichever option you want, and you're done.
+I have to use the ATM.	Is there a problem?
+I don't know how to use it.	What are you talking about?
+I have never used an ATM before.	I can show you how to use it.
+How do I use it?	You need to push your card into the machine.
+What's next?	Enter your PIN.
+What else do I have to do?	Every option you can choose will appear on the screen. That's about it.
+So, why don't you?	I have no idea how to use the ATM.
+What do you mean?	This will be my first time using an ATM.
+Now what do I do?	Then you need to type in your PIN.
+Now what?	Just click on one of the choices they give you, and that's it.
+Do you have any other questions?	I want to know about fees.
+Which fees?	Overdraft fees.
+How much is the fee?	You'll have to pay $25 every time you overdraft.
+That's a small fee?	It should stop you from overdrafting.
+Can I help you with anything else?	That's it for today. Thank you.
+Do you have any questions?	Tell me about fees.
+What fees are you referring to?	I want to know about overdraft fees.
+We charge a small fee every time you overdraft.	How much?
+Do you need help with anything else?	That's all I needed to know. Thanks.
+Would you like to ask any questions?	I need to know about the fees.
+What kind of fees?	I'm asking about overdraft fees.
+How is that a small fee?	That fee should keep you from overdrafting.
+Do you have any more questions?	I don't need to know anything else. Thank you.
+How may I help you today?	I need to open a second account.
+What kind of account would you like to open?	I need another savings account.
+Do you have another account with us?	I sure do.
+Would you like to transfer money from that account into your new one?	That's fine.
+How much would you like to transfer?	Transfer $100.
+That's fine.	Thank you.
+How can I help you?	I want to open another account.
+What kind would you like to open?	I would like to open a savings account.
+Do you already have an account with us?	I have another savings account open already.
+Do you want to transfer money from that account?	I would like to do that.
+How much?	I only want to transfer $100.
+What can I do for you?	I would like to open another account.
+What kind do you want to open?	I want to open a savings account.
+Do you have an account opened with this bank already?	Yes, I do.
+How much money do you want to transfer?	I want to transfer $100.
+All right	yeah
+Could you help me?	What do you need?
+What building is it in?	It's in the C building.
+Do you think you can tell me where it is?	Sure.
+May I get you some water or coffee?	Sure, thank you.
+Would you like some tea or coffee?	I'd love some.
+Would you care for some water?	Yes, that would be great.
+would you rather do the computer work?	I would like to help with the computer work.
+Well then, thanks for your help.	Have a great day!
+Would you like me to help you on your new project?	I would love the help! Would you prefer helping with the writing part or is programming more your thing?
+Could I help you on your new project?	I have a need for help with writing and also a need for help with the computer work. Which would you prefer?
+Can you be there?	I am not sure yet.
+Can you help me plan the office party?	Sure.
+Should this party be formal or casual?	I think it should be casual.
+Which one should we have?	I would prefer Chinese food for this party.
+What do you feel like eating this morning?	I usually just have a bowl of cereal.
+What do you make?	All I make is oatmeal, toast, and some orange juice.
+What are you going to have for breakfast?	I just have some cereal each morning.
+What do you have for breakfast?	I just make some oatmeal, toast, and OJ.
+Would you like me to make something?	Thank you, it's not needed.
+What do you want to eat for breakfast?	All I usually have is some python codes for breakfast.
+What's for lunch?	I don't know. 
+What do you want to eat?	I was thinking of pizza.
+Where can we go to get both?	We can get both at the cafeteria.
+What are we eating for lunch?	I have no idea. 
+Do you want to get a burger?	Yes I want to get a burger.
+Where do they sell both at?	They sell pizza and burgers at the cafeteria.
+What's for dinner tonight?	I'm not making anything.
+What do you feel like having?	I want some chicken and potatoes.
+When are you going to make it?	I have no plans on cooking tonight.
+What are we going to eat for dinner?	I didn't plan on cooking tonight.
+Are we going to have dinner tonight?	I'm not cooking dinner.
+What do you want to eat?	I have a taste for some chicken and potatoes.
+are you planning on cooking it?	I'll cook dinner.
+Hi, can I speak with the apartment manager, please?	Hello, this is the apartment manager speaking.
+Would you be interested in seeing the apartment?	I would love to see it.
+Are you free today at around 6 p.m.?	Yes, I will be able to make it then.
+Do I need to bring anything?	No.
+How can I help you?	I was wondering if the apartment on Main Street is still available.
+Are you interested in seeing it?	Yes, I would love to see
+should I bring anything with me?	No. I might need to see your ID card, but that's about it.
+Could I speak to the apartment manager?	I am the apartment manager. 
+How can I help you?	I wanted to know if that apartment on Main Street is still for rent.
+How about today?	That time is okay with me.
+Do I need to bring anything myself?	No. The only thing I need to see is your driver's license.
+What can I do for you?	I'm interested in the apartment on Main Street.
+Do you want to see it?	Yes, I would very much like to see it.
+Does today at 6 p.m. sound okay to you?	I have no problem with 6 p.m.
+Do you need any directions?	No, thanks. I already drove by to see what the neighborhood looks like.
+Should I bring anything with me?	No. I only need to check your driver's license.
+How can I help you?	I was hoping that the apartment on Main Street was still available.
+Is there anything that I need to bring with me?	No. I won't need to see anything except your driver's license.
+Hi. How can I help you today?	Well, my window facing the empty lot is broken.
+Oh, that's not good. What happened?	I dont know. I wasn't home when it happened.
+Do you have any clue who might have done this?	I have a feeling that it might have been the neighborhood kids.
+Why, what leads you to that suspicion?	Well, next to the broken glass was a baseball.
+Hello. What can I do for you today?	My living room window is broken.
+Are you serious?	no
+Do you know any of them?	No, I didn't pay any attention to who they were.
+What can I do for you?	Something happened to my window. It's broken.
+How about if I call a friend of mine who is a repairman?	That's no problem. I'll come by right now to look at the damage.
+How may I help you?	My window that faces the empty lot is broken.
+Hi	how may I help you?
+Hello	hello, how may I help you?
+Hi	Greetings, how can i help you?
+Can you tell me which credit card it was for?	It was for my Master Card.
+What am I supposed to do about my bill then?	Maybe you should call your post office.
+can I get an extension on my bill payment?	Yes, but you will need to send us proof of their mistake.
+Thank you very much for your help.	Enjoy the rest of your day.
+What am I going to do since I haven't received the bill?	If you haven't gotten it yet, then you should probably take that up with your post office.
+Thanks for your help	Nice. Have a great day ahead.
+Happy to help you	You are welcome
+Thanks	Welcome
+Thank you so much	You are welcome
+Good evening.	Good evening.
+What are you doing?	I am chatting with you.Tell me what is your query?
+What's the matter?	I have always got a headache. I never feel fresh.
+Do you take exercise?	No. I don't find time.
+Good bye.	Good bye.
+Hello,how may I help you today?	Hi.I would like to increase my Internet data.
+I'll be glad to help you with that.	Thankyou.
+What is your account number?	I don't have my account number with me,but my phone number is 310-865-9274.
+Alright,I see you use our mobile service.	Yes.I also have a landline.
+What does this new service include?	It makes the Internet connection twice as fast.
+This is Tech Support,how may I help you?	I am having problems with my Internet service.
+What seems to be the problem?	None of my wireless devices are connecting to the Wi-Fi.
+Have you tried disconnecting and reconnecting the modem?	No,how do I do that?
+Are all of the lights back on the modem?	Yes,they're all green!
+Hello, is this the Smith residence?	Hello, how can I help you today?
+I am very upset with the quality of your service.	I'm sorry, what seems to be the problem?
+My Internet service did not work for three days.	My records say a technician visited your area yesterday?
+Yes,he installed a new modem.	Did it solve the problem?
+Yes,but I was overcharged for Internet service.	Sorry about that.
+I was sold a wireless service unavailable in my area.	I see it here,we charged you $5 extra a month.
+How may I help you?	My computer is not letting me run JavaScript.
+That can easily be fixed.	I've tried fixing it myself, but nothing worked.
+Hello? I'd like to schedule an appointment.	Hello!What time would you like to come in?
+Can I have your name?	My name is Sarah.
+Alright,thank you!	See you soon!
+I don't have any clean laundry for tomorrow!	Well,you should do your laundry then.
+Do you have any quarters?	Yes.I have enough for the washer and dryer.
+Alright then,let us get going.	This is going to take forever.
+How long should I put them in for?	Put them on low heat for thirty minutes.
+Why low heat?	If the air is too hot,the clothes will shrink.
+Does warm water make them fade?	Yes.Put the detergent here,and don't use bleach.
+Excuse me,Can I borrow your fabric softener?	Of course,take as much as you need.
+Thank you.You're very kind.	Itis no problem at all.
+I love the subtle smell of this brand	Me too,It is not overpowering or strong.
+Hello, is this the Smith residence?	Sarah! Hurry up and get out of bed!
+Why I do it every morning?	If you don't get out of bed, you'll get to school late.
+How is it not so bad?	Sleep is good for growing children.
+Hello,is this Mr. Smith? I'm Mrs. Jones.	Hello,Mrs.Jones.Did you get my message?
+What is the purpose of this meeting exactly?	I just wanted to let you know that James is doing very well.
+What about history?	Only the parts about Woodstock.
+Hello,is this the Smith residence?	Children,it is time to go to bed!
+But we're not sleepy yet!	If you get into bed right now, I'll read you a fairytale.
+Why do we hear fairytales before bed?	So that the magic from stories can grow while you're sleeping.
+Hello,is this the Smith residence?	David!Clean your room.It is filthy!
+Have you no shame?	What should I be ashamed of?
+There are clothes all over the ground!	It is just easier to leave them there.
+I think these puppies are hungry!	They've done nothing but play all day.
+Do you think they're old enough to eat kibble?	They're six weeks old; I think they're old enough.
+Look!They're digging right in!	Now they're settling for a nap.
+Between keeping them from chewing things and cleaning, they're a hassle.	Yeah,they are.But look how cute they are while asleep!
+Suddenly,I don't mind the chores so much.	Yeah, neither do I.
+These puppies are truly worth it.	I wouldn't lose a single minute with them
+Hello,is this the Smith residence?	yes
+What is for dinner?	I should be asking you that.
+Why do you say that?	You're old enough to cook dinner.
+Are you saying itis my turn now?	Actually, thatis exactly what I'm saying.
+What would you like to eat,then?	I'm craving some spaghetti,bread and even a salad.
+Can you even cook?	Of course I can cook!I choose not to.
+Hello, how are you doing?	I am doing quite well,how are you?
+I've been better,I'm completely swamped with work.	I know the feeling
+How are the kids?	They are good.The oldest is about to graduate from high school.
+You're kidding me!Thatis great, man.	The youngest is about to start middle school soon.
+My son is about to start middle school as well.	Hey, maybe they will be classmates.
+Good morning.How are you today?	I'm fantastic.How about yourself?
+That is great! I'm good,but I feel a little sick.	That is not good.I heard there is a flu going around.
+Well,I have to be sure to take good care of myself.	Sucks that you aren't feeling well,it is a nice day.
+The sunshine makes me want to go to the beach.	That is a great idea,but I think you'll get sicker if you go.
+can we go some other time?	For sure
+Sounds like a plan.I'll talk to you later.	Cool,see you later.
+Everything is going wrong today.	Well,at least the weather is nice.
+Yeah,I love when the sun is shining, but itis not too hot.	I do,too. 
+This weather is pretty sweet.	I guess everything will be okay in the end.
+So all you needed was some sunshine.	Yeah,I guess you were right for once.
+Hey I'm always right	Quick! Get in here and wait out the storm!
+Oh,my word	It is raining cats and dogs out there.
+More like lions and wolves	I was watching the news.
+What did they say?	This is going to be one heck of a storm.
+Should we be worried?	I don't think so.
+True,Well,thank you for saving me from this storm.	No problem.I'm making some tea
+would you like some?	Please,Something warm would be great at the moment!
+Heard itis supposed to rain.	Where did you hear that from?
+The weatherman said there is a high probability of rain.	Since when have you started watching the news?
+I've always watched the news.	What else did they say about the weekend?
+I think they said it was going to rain throughout the weekend.	Throughout the weekend? 
+Don't pull my chain.	I'm not.
+Okay,suit yourself	I won't. 
+I'd rather get wet than listen to you.	Why don't you ever answer your phone?
+I'm usually busy.Whatis up?	I wanted to see if you were down to kick it.
+Where do you want to go?	Let us go for a drink at the bar where we went last week.
+Okay,but I only have enough for three beers.	It is fine.I'll pay for the rest
+I paid for you last time.You owe me!	Well, then we can call it even.
+Where should we meet?	How about at the train station by the bar?
+Sounds good.I'll see you in an hour.	Great.See you then,later
+I forgot to tell you,I'm going out with Sarah.	Which one is Sarah? 
+You date so many girls that I get confused.	First off,I don't date.
+So,which one is she?	Which girl?
+The cute one.You know the one with the tattoo up her thigh?	I think I would have noticed that.
+She is the only one with blonde hair.	Well.
+I know you check her out,I assumed you saw the tattoo.	I'm not that big of a pervert.
+I have a new co-worker at work,She is pretty.	Oh,yeah? 
+Is she prettier than your ex-girlfriend?	Yeah,she is. 
+Sheis tall,thin,and wears glasses.	What is it with you and girls with glasses?
+You know what?I don't know.	Well,tell me about her.
+She likes music.She is always wearing band t-shirts.	Really? Are they any bands you like?
+Yeah,actually a lot of them are.	How does she act? 
+Is she nice?	She is. 
+I dropped my wallet,and didn't notice,She took it to me.	Well,ask her out tomorrow,or somebody will.
+I heard that your brother is in the hospital.	Yeah,He is been there since last week.
+What happened?	Is he alright?
+The doctors told you he would be alright?	Yes,but they need to keep him for further tests.
+Really lucky.Did anyone else get injured?	His girlfriend broke her arm,but that is all.
+Oh,thatis not good.Is she at the hospital?	Yes,she is taking care of my brother.
+C'mon,guess what?	I don't know, chicken butt?
+Stop playing games.I got the part in the school play!	Really? Thatis great!
+All this practice is finally paying off.	Yes,it is.I can't believe it!
+Same here.I'm going to be the main character!	I'm so proud of you.I can't wait to see the play.
+It is going to be a lot of hard work,but I'm glad I got the part.	When does the play open?
+It opens in three weeks.	Great.Get me a ticket.I want to be sitting in the front row.
+That is an awesome shirt.	Thank you.It is so nice of you to say.
+Where did you get it?	I got it at a store at the mall.
+Did it cost a lot?	Things are usually overpriced there.
+Actually,it was quite cheap.I got it for $15.99.	That is pretty cheap. 
+Do they have it in other colors?	Yes,sure.
+Would you want to come with me?	We can go after school,if you want?
+Do you want to do something?	What did you have in mind?
+Do you want to go drink?	No,I have work tomorrow,and I don't want to be hung over.
+You don't have to get wasted.	I know you.You won't shut your mouth until I get wasted.
+I'm down to go to the record store.	I haven't been there in a while.
+Well,what do you want to do?	Let us go to the movies instead?
+What is your favorite movie?	The Grand Budapest Hotel.Why do you ask?
+I was wondering what types of movies you liked.	Well, that is my favorite movie, but I like all sorts of movies.
+How many times would you say you have seen it?	Too many to say.I watch it at least twice a month.
+Really,you like it that much?	It is a really good movie.You should watch it.
+Could I borrow it?I don't have money to buy it.	Yes,I could lend you the movie,but be careful with it.
+I don't know which class to register for.	You should pick the class you need.
+I know I need a science class.	I would take biology with Mr. Green.
+Its a challenging yet fun class.	I don't like challenges.
+Why are you in college then?	My mom forced me to enroll.
+You should go to a vocational school instead.	I don't think you understand.
+Okay, fine.I recommend Earth Science 125 with Mr. Anderson.	Thanks for the recommendation!
+I am so upset.	Oh,no.Talk to me about it.
+I can't register for a class I really need.	Is it full?
+I have a hold on my record, because my library books were overdue.	Can't you just pay the overdue fees?
+I can't afford it.I'm totally broke.	How much do you need?
+I need $50.	Wow, you must have kept those books long past the due date.
+Yes,I know I am horrible.	I'll lend you the money.
+Hi,I'm James.What is your name?	Hi James. My name is Lisa.
+I'm taking this class because it seems interesting.Why are you?	I'm taking this class because it is a requirement.
+We should get to know each other.	I don't think so.I like keeping to myself.
+So you don't like meeting new students?	Nope,I would rather just be alone.
+That is so sad!It is not.	It is really peaceful and self-empowering.
+Can we at least study together?	Nope,we can't do that.
+It takes me hours to find my classroom.	I might be able to help you.
+Really?That would be great!	What is your classroom number?
+My classroom number is A21.	So the A is the building type.
+Okay,but I don't know where that is.	Do you know where the gym is?
+Yeah,I do.	Okay,your classroom is behind the gym.
+That is really helpful!Thank you.	No problem,and the 21 means it is upstairs
+I can't spend anymore money after I buy my English textbook.	How much is your English textbook?
+It is $198.I'm not kidding.	That is ridiculously expensive!What is the title of the textbook?
+It is called How to Write Well.	Dude, someone is selling that book for $30.
+No way.What edition is it?	I think it was the 10th edition.
+Oh,no wonder he or she is selling it for only $30.	What edition do you need?
+I need the 21st edition.	The publisher seems to be really making money,considering the number of editions.
+I hate Professor Hernandez!	Me too! He keeps calling me stupid!
+You think that is bad? He gave me an F,because I double spaced my essay!	But every professor wants essays double spaced.He is crazy!
+Professor Hernandez is weird.He wants essays triple spaced.	That is just a waste of paper.Why does he like triple spacing?
+He says it is because he has to make a lot of corrections,because we're stupid.	We should start a petition, and get him fired!
+We should,but he can find out.	I know.If he found out,he would ruin everyone is life.
+He is so evil.	That is why this petition has to work
+Hey,Professor Hill.	What is it?
+I've been having trouble with derivatives.	That is not good.There is a test on derivatives next week.
+Can I make an appointment with you for some help?	I'm a busy man.
+You didn't even check your schedule yet!	I know I'm busy,because many people already made appointments.
+So I'm hopeless?	Of course not!There is the tutoring center.
+But the tutors are not professors.They're just students.	They might surprise you
+May I turn in my homework tomorrow?	It is due today.
+I know,but I don't have it right now.	How come?
+No!I left it at home.	I can't take your word for it.
+Why not?I'm an A+ student.	How do I know if you even did the homework?
+I'll ask my mom to take a picture of it and send it to me.	That is fair enough.
+Thanks,Also,you should try trusting students more. We're not all that bad.	I'll try,but I can't promise anything.
+I have to tell you something.	What is it?
+You graded my test incorrectly.I got this wrong,but you didn't mark it.	Wow!I have never met a more honest student.
+I just felt wrong.	Just keep the score you have.
+Really?That is awesome.	Yes,I have to ask,why did you decide to tell me?
+I'm really bad at lying.	That is a good thing!Your honesty is praiseworthy.
+Thanks,Want to give me extra credit?	Don't push it.
+Can I borrow your class notes from yesterday is lecture?	You're so lazy.
+What are you talking about? I was sick yesterday.	I don't care.
+You're so mean!	I can't let anyone borrow my class notes.
+Why not?They're just notes.	I let a classmate borrow my notes once,and she sold copies to people.
+That is crazy,For how much?	She sold each class note set for $5.
+Don't worry,I promise not to sell your notes.	I can't take your word for it
+I think your grading policy is unfair.	I beg your pardon?!
+Why is a 90% a B?	I'm trying to challenge you guys.
+That is not a challenge,that is a punishment.	I've had this policy since I started teaching.
+It is time for a change.	I'm not changing my policy because you don't like it.
+Put yourself in my shoes.	I have been a student once,and I think my policy is fair.
+I'm going to drop your class	Go ahead!Less for me to grade!
+I have a 89.5%.	Okay,so what?
+It is really close to an A.	You know I don't round up.
+But I really need a 4.0 GPA.	You get what you deserve.
+I know I deserve an A,I always do great work and participate.	I can't change it.
+Please? I'll wash your car.	Are you bribing me?
+I just want an A.	I'll give you a C if you don't leave now.
+Why were you absent yesterday?	Why do you care?
+You should be thankful I care so much about your education.	The truth is,I didn't hear the alarm clock.
+You missed out on a very important lecture.	It happens. I'll just ask my friend what was on the lecture.
+Is she a good note taker?	I don't know.I guess?
+If you were in class,you wouldn't have to rely on anyone is notes.	I can't change the past.
+I know,Anyways,you should increase the volume on your alarm clock.	I suppose I could do that.
+I have to leave class early tomorrow.	I don't like that.Just don't come to class.
+Don't be like that,Professor I have to attend my moms funeral.	I'm sorry for your loss.
+It is okay.I'm going to miss her.	I lost my mom when I was in college, too.
+Saddest thing ever,right?	Yes.You know what?Take a week off school.
+I can't do that.I have too many responsibilities.	Take my advice.
+I'll think about it.	If you ever need to talk,my door is open.
+I would like to see my counselor now.	Sorry,she doesn't have any time today.
+Are you serious?	Yes,I am,Please make an appointment for next week.
+I really need to see her.	I'm sorry,but you really can't.
+I swear,I will bang on her door and scream.	Don't make a scene.
+If you don't want me to make a scene,tell the counselor I'm here.	Fine!You can only talk to her for five minutes,though.
+That is all I need.	Next time,you'd better make an appointment.
+I'm glad you came to talk to me today.	You kind of forced me to.
+That is because I'm worried.	What are you worried about?
+You withdrew from 4 of your 5 classes last semester.	I was doing poorly!
+And why was that exactly?	It was just too hard.
+You're really behind now.You might have to spend 6 years here.	Can't I just take summer classes?
+Yes,but you don't want to stress yourself out.	I don't really have a choice.
+I'm thinking of adding another class.	Another one?You already have 7 classes.
+I know,but I really want to add Psychology 101,It seems interesting.	You're going to be so stressed out.
+I think I can handle 8 classes.	Seriously?You're going to be constantly in class or studying.
+I know,but it is worth it.	Tell me that when I'm partying and you're not.
+How many classes are you taking?Two?	Haha!You're funny.I'm taking three.
+That is so little.Don't you feel like an underachiever?	Remind me again why we're friends.
+Want to go to the writing workshop with me today?	Nah man,my writing skills is tight.
+You mean "are" instead of "is,"right?	Yeah,of course!
+You should come with me.Our college has great workshops.	I don't want to look stupid.
+You won't.You look stupid using incorrect grammar.	Fine.How long is the workshop?
+It is about an hour.	I don't think my attention span is more than 5 minutes.
+Don't worry,I'll pinch you to wake you up.	That is a clever idea.
+I'm planning to study abroad this summer.	Cool!Where are you going?
+I'm going to Italy.	What are you doing there?
+I'm taking a cooking class.	That sounds interesting.
+I'm excited to learn in a totally new environment.	Italy seems beautiful.
+It is beautiful in the pictures I've seen.	Take a lot when you're there.
+I will,and I'll study hard, too.	Also,learn some Italian while you're there.
+I hope I can find a job after graduation.	What is your major?
+My major is geology.	Geology majors aren't very high in demand,but you'll do fine.
+What makes you say that?	You're smart and likeable.Don't worry.
+Thanks,but I'm still scared.	Oh,hey!You should go to the job fair.
+We have that here?	Yes.Take advantage of it.
+Have you ever been there?	Yes,and it is really helpful.Dress nicely!
+I am so sick of dining hall food.	Me too!It is so unhealthy.
+We should go to a restaurant nearby.	Want to go to Health Nut?
+What a funny name!	I like it!
+Do they sell nuts?	I'm not sure.Anyways,I want to try their organic tofu.
+I'm allergic to tofu.	That is okay!They serve a wide variety of food.
+Great!I'm just glad we're not eating dining hall food.	Me too.Let us go!
+Why are you taking so long?Is something wrong?	Sorry,my bag of chips got stuck.
+Vending machines suck,huh?	They're the worst,but the food is great.
+It might come out if someone buys an item from the same column yours is on.	Can you be that someone?
+Sure,why not?I could use some chips.	Thanks!Hey,what is your name?
+My name is Charlie.	Nice to meet you,Charlie.
+What is your name?	Hater of Vending Machines.
+I would like to purchase the book for Sociology	May I see your student ID?
+I didn't know we needed it.	Please go get your ID,and get in line again.
+But I waited in line for two hours!	I'm sorry,but you need a student ID to purchase textbooks here.
+Are there any other options?	Show me proof that you're a student at this college,and you'll be good.
+I have my report card.Here it is.	This will do.Nice grades by the way.
+Thanks!I worked very hard for them.	Good luck with this semester.
+Wow!Your books are over the due date by one month.	It would have been longer if there wasn't a hold on my record.
+What kind of hold is on your record?	A hold that won't let me go to the college football game.
+Oh,that is tough.	Yeah.My girlfriend is actually a cheerleader and so I have to go.
+You're not going to like what I'm going to say.	What is it?
+I can't remove the hold even if you pay the overdue fee.	Is it a technical error?
+I don't know!I just can't remove it!	If my girlfriend breaks up with me,I'm blaming you
+What do you plan to do after you graduate from here?	I'm planning to go to medical school,You?
+I'm planning to teach English in underprivileged countries.	That is really kind of you.
+Thanks,The first country I'm teaching in is Kenya.	While you're at Kenya,I'll be studying for medical school.
+What kind of doctor do you want to be?	I want to be a pediatrician.
+Because you like kids?	I don't really have a good reason.I just think I'll be good at it.
+You should do what you love,not necessarily what you're good at.	That is very cheesy advice.
+The parking permit is $200 per semester,right?	It is actually $300.
+Why?!That is ridiculous.	It is because of the budget cuts.
+That is a terrible excuse.	It is the truth.
+Give me something better than that.	Miss,if you don't want to pay,then don't.
+This is so stressful.	I advise writing a letter to the dean.
+I bet he'll just throw it away.	You would be surprised.
+Do you have a car on campus?	No,because it is hard to find parking here.
+How do you get to places then?	I walk or take the bus.
+That is crazy!I could never do that.	You should.It is great for the environment.
+That is true.What do you do for fun then?	There is a lot of stuff to do around campus.
+I never realized.	You should do some exploring.
+You convinced me.I won't bring my car this semester.	We can walk to places together now!
+You know you can't park here,right?	Listen,I had to talk to my friend really quickly and there was no parking spaces.
+I'm going to have to give you a ticket.	I'm a broke college student.
+And I'm a broke police officer.Deal with it.	Can't you just let me off with a warning?
+No way.I have to be firm with you.	I'll buy you a box of donuts.
+You have got to be kidding me.	I thought all cops liked donuts.
+That is a stereotype.You should really learn to be quiet.	I'll stay quiet if you let me off with a warning.
+I'm thinking of joining a sports club on campus.	You should!It takes away the stress of studying.
+What sport do you play?	I actually play on our university is baseball team.
+That is cool!You must be really good.	Yeah,I have a baseball scholarship.
+No wonder you're in such great shape!	You'll be in great shape too after joining a sports club.
+I'm thinking of joining the tennis club.	I wouldn't if I were you.The members don't even play tennis.
+What do they do then?	They just talk about tennis.They never even touched a racket,though.
+College is so boring.All I do is go to class.	You should join some clubs.
+Are you a part of any clubs?	Yes!I am currently in the Animal Lovers Club and the Knitting Club.
+What do you do in the Animal Lovers Club?	We do a lot of things!Last week,we walked dogs.
+That sounds fun,What is the wildest animal you ever interacted with?	I touched a dodo bird a couple weeks ago.
+Dodo birds are extinct.	I'm just messing with you!
+You're silly!Okay,I'll join the Animal Lovers Club.	Great!We always welcome new members.
+I have to go to bed early.	Why?The night is still young!
+I have a class at 7 a.m.	That is tough!My earliest class is at 9 a.m.
+That sounds amazing to me.	How do you stay awake in that class?
+Before I go to class,I drink four cups of coffee and take a cold shower.	Interesting routine.Does it work?
+Kind of.It is better than not doing it at all.	Why are you taking that class?
+It is only offered once a year,so I have to take it now.	I hope the class is interesting,at least.
+I hate my roommate.	I'm sorry to hear that.What is wrong with her?
+A lot of things.First of all,she snores so loudly!	That is not really her fault.What else?
+She never takes a shower.	That is disgusting!You should tell her to take a shower.
+I did!She got mad at me and then proceeded to slap me.	Ouch!Did you try to get a new roommate?
+I tried,but I could not.No one was willing to switch.	I guess you can get a new room by yourself.
+Are you okay?You look really sad.	I'm homesick,I feel so out of place here.
+But this college is so awesome?	I know,but I really miss home.
+How far do you live?	Far.Let is just say I need an airplane to get there.
+It is almost winter break.Hang in there?	I don't think I can handle it anymore.
+Don't you want to stop feeling sad?	Okay,I'll call them now.
+could I change my major from biology to political science?	Those majors are very different from each other.
+can't I see myself studying it anymore?	You can change it,but you'll have to take more classes.
+I don't mind.Political science is really interesting to me.	You would be graduating a year late?
+Oh,no.I have to think a little more about this then.	I think you should change it,since you hate biology.
+Are you making the right choice?	I have decided to drop out of college.
+Are you making the worst decision of your life?	I just don't get the point of college.It is just memorizing.
+What are you going to do then?	I'm going to get a job!
+As what?A burger flipper?	Don't be mean.I'm going to be rich and successful when I'm older.
+is it almost impossible to be rich and successful without a college degree?	Look at Steve Jobs!He dropped out of college.
+is he a rare case?	Watch me prove you wrong.
+What is that exactly?	It is an expression to refer to the observation that many college freshmen gain weight.
+Do I have time?	You just have to make time.
+Did you gain any weight?	Yeah,I just wear big clothes to hide my fat.
+Hi,I'm here to apply for a library card.	Is this your first time applying for one?
+It is my first time applying for a card here.	Do you have cards with any other libraries?
+Yes,I have one with my college and one with my local library.	What college do you go to?
+What do you like about it?	I like the foreign language books.That is rare for any library.
+Yes,it is!We get people all over the world because of that section.	I really need a book,but I didn't see it on the shelf. 
+So someone else has the book and plans on checking it out?	Either that or someone took it out of the shelf and misplaced it.
+I really need that book.	You're going to have to look everywhere for it.
+Can't you just make an announcement asking whoever has the book to come forward?	You are not that special.
+can you help me find a book on tigers?	Yes,of course. 
+Is it for a school project?	Yes,I'm doing an essay on the life of a tiger.
+You're going to want one with a lot of words and less pictures	yes,ofcourse.
+Fine,I admit you're right.	You can borrow the book with pictures for your own pleasure
+Great!You're so helpful.	It is my job to be helpful.
+I would like to reserve The Hunger Games. 	Everyone wants to reserve that book these days.
+It is really popular,because the movie just came out.	You have to pay $1 to reserve the book.
+What?!That is ridiculous.	Like you said,it is popular.
+How much is the book?	On the back,it says it is $15,It depends on the bookstore you go to though.
+Fine,I'll give you a $1.	You won't regret it!The book is really good.
+I'm sorry,but you can't borrow this book.	What do you mean?
+You have not paid your late fees for your overdue books.	I never had any overdue books!
+The computer doesn't lie.	What books do I have late fees for?
+They're all math books,and according to the system, you still have them.	Oh yeah,I do!I totally forgot about them and left them on my bed.
+Once you return them and pay the fee,you can borrow books again.	But I really need to borrow those books now.
+I can put them on hold for you.	Yes!You are the best.
+I'm so frustrated,I can't find any books on my research topic at my library.	Why don't you try a different library?
+I don't want to waste gas money.	But you might find your book.
+What library do you suggest?	I suggest the one near my house.
+That is way too far for me.	They have a lot of books.That library has never disappointed me.
+Why don't you borrow them for me?	I don't know about that. 
+What if you lose the books?	I won't.I swear on my life.
+Wow,you're so serious.	This is a great book you're checking out.
+You have read it?	Read it?I memorized it!It is one of my favorites.
+can I check out more than one?	Of course!It would be crazy if you could only get one book.
+That is awesome!I'll be back.	Don't go crazy now.The limit is 15 books.
+Don't worry.I'll probably come back with 5 more books.	It is great to see a kid excited about reading.
+Would you like to check it out?	Yes,I'd like to check it out.
+Interesting magazine choice,Reading about celebrities is not really smart of you.	Don't judge me,I can't read educational stuff all the time.
+I do!I read Time and National Geographic.	Everyone is taste is different.
+How long do you want to check that video out for?	One week would be nice.
+That will be $5.	What?!I thought I could check out videos for free.
+You can check out educational videos for free.	This is bogus.
+It is still not a bad price.	Okay,what if I only borrow it for a day?
+It will be $2.	Okay,here is $2. 
+So much for a library that services the public.	I hope you enjoy the movie.
+For 2 bucks,I'd better love the movie	There is a huge rip here.
+Did you put the tape there?	No,it was there before.
+I know you're lying to me.	If you know,then why did you ask if I put the tape on?
+I wanted to see if you were a liar or not.	How did you know I'm lying?
+Before you check out the book,the librarian checks it for damage.	Wow,you guys think of everything.
+Are you kidding me?	No,I am not kidding you.
+Are you looking for something?	I'm researching for my project.
+Can you come back tomorrow?Your daily computer limit time is up.	I don't have a computer at home.
+My project is due very soon.I need to research.	How about books?This is a library after all.
+I'll help you.	Thank you.I appreciate it
+How much do I need to insert here to make one copy?	It depends. 
+Do you want your copy in color or black and white?	I want it in color.
+Then it will be 20 cents per page.	That is kind of expensive.
+Yeah,but most of us don't have a copy machine of our own.	I have one, but it is broken.
+Do you really not have 20 cents?	I do,but I'm really cheap.
+Well,you don't really have a choice at this point	Why is the printer line so long?
+What do you have to print?	I have to print some notes.
+Good luck,You'll be waiting here for a long time.	I bet the ink and paper will go out.
+Do you have a restroom?	Only for employees.
+But I really need to go.	I can't let you go.There is a restroom in the market across from us though.
+That restroom is really dirty.It smells like someone died in there.	Fine,I'll take you to our restroom.
+Yay!Thank you so much.	We have to go secretly.If anyone sees you use the restroom,I'll be fired.
+Don't worry.I will be small and quiet as a mouse.	Okay,good.The password is 595.Go quickly before anyone sees you.
+Thank you for your kindness.	You owe me if we ever see each other again.
+What is so good about volunteering there?	It is fun,and you feel good about yourself.
+What do you do there?	Everyone does different things,I organize events.
+What kind of events?	Movies,art and crafts,magic shows and more.
+That does sound fun!	Do you want to sign up?
+Yeah,how do I sign up?	I'll get you an application.
+I can't study at home,because my family talks so loudly.	Study at the library.
+Can you focus in there?	Yes,it is always really quiet.
+I'll go today.	Make sure you get a good seat.
+Are there not enough seats for everyone?	It depends on when you go.
+I'm going at 1:00 a.m.	Dude,it is not even open that late.
+But that is the best time for me.	You can always try a cafe.They tend to close late or not at all.
+What does that mean?	It means you can only read it in the library.
+But I need it for my essay.	You can take pictures of the pages you need.
+I need almost all of them.	You can keep coming back here.
+That is so inconvenient.	It is,but they have to be kept here.
+I guess I can take pictures of the pages then.	Sorry about the inconvenience.
+It is okay,It is not your fault.	Ew!Look what I found in this book.
+What is that?	It is a dead bug.
+It is all squished and messy.	I can't read this book without being disgusted.
+But don't you really want to check out this book?	I do,but I really can't.
+I'll check it out then.	You can read it without being disgusted?
+Yeah, I'll just skip that page.	There could be something really interesting on it.
+Whatever!I'm just going to check out the book.	I'm applying to transfer out of this college.
+I'm going to miss you. 	Me too.I'll text you every so often.
+Why do you want to transfer?	I don't think here it is challenging enough for me.
+You can join the honors program!	I did,and it wasn't challenging either.
+Alright then,When are you going to start applying?	Next month.I'm already looking at the essay prompts.
+Are they challenging?	Yes,but they're kind of fun!
+I hope you get into wherever you want to go.	I don't know what university to transfer to.
+There is a lot,so it is all about picking what suits your needs.	For starters,I would like a university in a safe area.
+Okay,what else are you thinking about?	I want to live close to home.
+I think UC Irvine would be good.	I don't think that is good for my major.
+What is your major?	I'm majoring in philosophy.
+Yeah,you're right.UCI is not good for philosophy.	I also want to go to a college that will increase my job opportunities.
+What classes should I take to transfer?	You need a little bit of everything.
+What do you mean?	You need to take at least one class in every subject.
+Do I need to take a math class?	Even if your major is Portuguese,you have to take a math class.
+That is so stupid.	It is just to make you more knowledgeable.
+But I don't even need it!	It is been like this for ages.
+Well,the policy should be changed.	It won't.So in the meantime,you should register for a math class.
+Why are you taking this class?	I need it to transfer knowledge to others.
+Me too!I would never take Speech 101 if I didn't need it.	Yeah,I hate public speaking.
+Me too!I get so nervous.	I just want this class to be over with.
+It is going to be a long semester.	Maybe after this class,we'll love public speaking.
+I doubt it!	I don't even know why we have to take this class to transfer.
+I guess it is to make us better speakers.	It'll all be worth it when we transfer.
+You only need three more classes and you'll be ready to transfer	yes, you are correct.
+Which classes do I need?	You need a history class,a physical science class,foreign language class.
+Which history class should I take?	The one you're most interested in.
+What are you doing?	I'm filling out my college application.
+Do you need any help? 	Yes,I do need help. 
+Should I put my ethnicity?	It won't be used for or against you.It is really up to you.
+should I put all of my extracurriculars?	Put the ones that you were heavily involved in.
+should I put anything in the "additional information" section?	If you feel like you need to say something that you didn't mention before,then yes.
+Can I say I got an A when I really just got a B? 	What Of course not!They will ask for your transcript.
+How many universities are you applying to?	I'm applying to 12 universities.
+Wow!That is a lot!	I just want a lot of options.
+But it costs a lot of money and time!	I get fee waivers.
+But how about the time?I mean, applying is a lot of work.	College applications ask similar questions.
+Which ones are you applying to?	CSULA,UC Irvine,Yale.
+Why?They're going to find out.	No,they're not!They're not going to check.
+What does that mean?	The UCs will randomly select 10% of their applicants to provide proof of their extracurriculars. 
+You may be chosen,Be careful. 	You're right.
+But there is only one space left.	That is terrible
+Beg the professor?	If I have to.
+You should cry!That might work.	I'm planning to,I can cry on demand.
+Maybe you should take a theater class instead.	I desperately need to take an English class this semester.
+So does everyone else.	It is the only class I need before I transfer.
+Maybe you can pay someone for their spot. 	I honestly would do that if someone was willing to give up their spot.
+What happens if you can't get the class?	Then I need to stay at Pasadena City College longer.
+That would stink.	I know,that is why I need that class.
+You can try taking it at another college.	I might do that.The closest community college is a two-hour drive.
+I'm praying you get the English class.	I want to transfer,but I don't know where to start.
+What do you want to major in?	I want to major in biology.
+What are those requirements exactly?	I'll give you a sheet listing all of them. 
+What else do I have to do?	You should fulfill some,if not all,of your major requirements.
+Okay,about when will I finish?	It really depends on how many classes you take and complete per semester.
+What kind of favor?	Can you write a recommendation letter for me?
+Why not?I was a good student.	Yes,you are a good student.
+You read his recommendation letter?	Yeah.I couldn't resist.
+What did he write?	Just that I'm a diligent student who does well.
+When do you need another recommendation letter by?	I need one by this Friday.
+What is that?	It is where a professional will give you tips and revise your personal statement.
+That sounds helpful.	Yes,you are absolutely correct.
+How was it?	The person leading the workshop was an English professor,so it was informative.
+I'm kind of embarrassed to show my personal statement,though.	You shouldn't be.
+What is wrong,why are you looking sad?	I was rejected from my dream school.
+why would you want to go to a school that doesn't fit you?	When you say it like that,I understand you.
+Yeah!Just focus on the schools that do want you.	You're right!Yale made a mistake rejecting me.
+I have decided not to transfer.	Why not?You kept saying you wanted to.
+I got accepted to all of the schools I applied to.	Congrats!You totally deserve it.
+How many schools did you apply to?	I applied to six.
+Is this your first time here?	It is my first day at this school.
+Did you move in yet?	Yes,I have an apartment nearby.
+What is your first class?	My very first class is human biology.
+
